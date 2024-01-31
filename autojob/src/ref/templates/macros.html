@@ -1,0 +1,13 @@
+<!-- autojob/src/templates/macros.html -->
+
+{% macro build_site_navigation(pages, selected) %}
+<div class="w-1/4 mr-8">
+    <ul>
+        {% for page in pages %}
+        <li class="text-lg pl-6 py-3 {% if selected == page.name %}border-l-4 bg-gray-200{% endif %}">
+            <a href="{{ page.url }}">{{ page.name }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endmacro %}

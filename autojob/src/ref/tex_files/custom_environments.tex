@@ -1,0 +1,59 @@
+\renewcommand{\rmdefault}{phv}
+\documentclass{article}
+\usepackage[letterpaper, margin=0.5in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{tabularx}
+
+% Define the section format
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+
+% Reduce space above section headings
+\titlespacing{\section}{0pt}{*1}{*0.5}
+
+% Custom environment for education
+\newlist{educationlist}{itemize}{1}
+\setlist[educationlist]{label={}, left=-10pt, itemsep=0pt, topsep=0pt, parsep=0pt, partopsep=0pt}
+
+\newcommand{\educationitem}[4]{%
+    \item
+    \begin{tabularx}{\linewidth}{X r}
+        \textbf{#1} & #2 \\
+        #3 & #4
+    \end{tabularx}
+}
+
+% Custom environment for work experience
+\newlist{experiencelist}{itemize}{1}
+\setlist[experiencelist]{label={}, left=-10pt, itemsep=0pt, topsep=0pt, parsep=0pt, partopsep=0pt}
+
+\newcommand{\experienceitem}[4]{%
+    \item
+    \begin{tabularx}{\linewidth}{X r}
+        \textbf{#1} & #2 \\
+        #3 & #4
+    \end{tabularx}
+}
+
+% Custom environment for research and projects
+\newlist{projectlist}{itemize}{1}
+\setlist[projectlist]{label={}, left=-10pt, itemsep=0pt, topsep=0pt, parsep=0pt, partopsep=0pt}
+
+\newcommand{\projectitem}[4]{%
+    \item
+    \begin{tabularx}{\linewidth}{X r}
+        \textbf{#1} & #2 \\
+        #3 & #4
+    \end{tabularx}
+}
+
+% Custom environment for skills
+\newlist{skilllist}{itemize}{1}
+\setlist[skilllist]{label={}, left=0pt, itemsep=0pt, topsep=0pt, parsep=0pt, partopsep=0pt}
+
+\newcommand{\skillcategory}[2]{%
+    \item \textbf{#1:} #2
+}
+
+% Begin Document
+\begin{document}

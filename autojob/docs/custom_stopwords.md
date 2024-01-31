@@ -1,0 +1,3 @@
+# File: autojob/src/preprocessing/custom_stopwords.py
+
+The custom_stopwords.py script defines a list, custom_stop_word_list, containing words that are commonly considered as stopwords in natural language processing tasks. Stopwords are words that are often removed during text preprocessing to focus on content-carrying words. This script provides a customizable set of stopwords, allowing users to tailor the list based on the specific requirements of their text analysis. It includes common words like "a," "able," and "about." Users can expand or modify this list as needed for their unique text processing needs.

@@ -1,0 +1,11 @@
+# .gitignore
+
+# Ignore specific files and directories
+scrap/
+env/
+gpu_env/
+cpu_env/
+Autojob.geany
+.directory
+autojob.geany
+.python-version

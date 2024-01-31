@@ -1,0 +1,161 @@
+Files containing 'apify_client':
+- ./webscraper/webscraper_actor.py
+
+Files containing 'autojob':
+- ./webscraper_module.py
+- ./preprocessing_module.py
+- ./preprocessing_module.py
+- ./preprocessing/preprocessing_utils.py
+- ./preprocessing/preprocessing_utils.py
+- ./preprocessing/preprocessing_utils.py
+- ./preprocessing/preprocessing_utils.py
+- ./preprocessing/preprocessing_pipeline.py
+- ./preprocessing/preprocessing_pipeline.py
+- ./preprocessing/preprocessing_pipeline.py
+- ./preprocessing/preprocessing_pipeline.py
+- ./preprocessing/preprocessing_pipeline.py
+- ./preprocessing/preprocessing_pipeline.py
+
+Files containing 'collections':
+- ./postprocessing/test_keyword_merge.py
+
+Files containing 'cupy':
+- ./preprocessing/preprocessing_utils.py
+
+Files containing 'datetime':
+- ./preprocessing/input_files_processing.py
+
+Files containing 'dateutil':
+- ./preprocessing/input_files_processing.py
+
+Files containing 'education_component':
+- ./user_input/main_ui.py
+
+Files containing 'experience_component':
+- ./user_input/main_ui.py
+
+Files containing 'json':
+- ./webscraper_module.py
+- ./resume_generation/main_resume_generation.py
+- ./webscraper/webscraper_actor.py
+- ./webscraper/get_actor_settings.py
+- ./utils/sort.py
+- ./user_input/main_ui.py
+- ./user_input/ui_functions.py
+- ./preprocessing/input_files_processing.py
+- ./preprocessing/preprocessing_utils.py
+- ./preprocessing/preprocessing_pipeline.py
+- ./postprocessing/test_keyword_merge.py
+
+Files containing 'numpy':
+- ./preprocessing/preprocessing_utils.py
+
+Files containing 'os':
+- ./webscraper_module.py
+- ./preprocessing_module.py
+- ./resume_generation/main_resume_generation.py
+- ./webscraper/webscraper_actor.py
+- ./webscraper/get_actor_settings.py
+- ./utils/sort.py
+- ./keywords/ex_textacy.py
+- ./user_input/main_ui.py
+- ./user_input/ui_functions.py
+- ./user_input/ui_functions.py
+- ./preprocessing/input_files_processing.py
+- ./preprocessing/preprocessing_utils.py
+- ./preprocessing/preprocessing_pipeline.py
+- ./postprocessing/main_processing.py
+
+Files containing 'project_component':
+- ./user_input/main_ui.py
+
+Files containing 're':
+- ./preprocessing/preprocessing_utils.py
+- ./preprocessing/preprocessing_pipeline.py
+
+Files containing 'requests':
+- ./webscraper/get_actor_settings.py
+- ./postprocessing/jobbert_test.py
+
+Files containing 'shutil':
+- ./preprocessing/preprocessing_pipeline.py
+
+Files containing 'skillNer':
+- ./preprocessing/preprocessing_pipeline.py
+- ./preprocessing/preprocessing_pipeline.py
+
+Files containing 'spacy':
+- ./utils/gpu_spacy_check.py
+- ./utils/spacy_init.py
+- ./utils/spacy_init.py
+- ./utils/spacy_init.py
+- ./keywords/ex_textacy.py
+- ./preprocessing/preprocessing_utils.py
+- ./preprocessing/preprocessing_utils.py
+- ./preprocessing/preprocessing_utils.py
+- ./preprocessing/preprocessing_utils.py
+- ./preprocessing/preprocessing_pipeline.py
+- ./preprocessing/preprocessing_pipeline.py
+- ./preprocessing/preprocessing_pipeline.py
+- ./preprocessing/preprocessing_pipeline.py
+
+Files containing 'spacy_init':
+- ./utils/gpu_spacy_check.py
+
+Files containing 'sys':
+- ./webscraper_module.py
+- ./preprocessing_module.py
+- ./resume_generation/main_resume_generation.py
+- ./keywords/ex_textacy.py
+- ./user_input/ui_functions.py
+- ./preprocessing/preprocessing_utils.py
+- ./preprocessing/preprocessing_pipeline.py
+
+Files containing 'textacy':
+- ./keywords/ex_textacy.py
+- ./preprocessing/input_files_processing.py
+- ./preprocessing/input_files_processing.py
+- ./preprocessing/preprocessing_utils.py
+- ./preprocessing/preprocessing_utils.py
+- ./preprocessing/preprocessing_pipeline.py
+- ./preprocessing/preprocessing_pipeline.py
+
+Files containing 'time':
+- ./webscraper/webscraper_actor.py
+
+Files containing 'tkinter':
+- ./user_input/main_ui.py
+- ./user_input/main_ui.py
+- ./user_input/project_component.py
+- ./user_input/ui_functions.py
+- ./user_input/ui_theme.py
+- ./user_input/ui_theme.py
+- ./user_input/education_component.py
+- ./user_input/test_ui.py
+- ./user_input/test_ui.py
+- ./user_input/ui_elements.py
+- ./user_input/ui_elements.py
+- ./user_input/experience_component.py
+
+Files containing 'tqdm':
+- ./preprocessing/preprocessing_pipeline.py
+
+Files containing 'transformers':
+- ./cover_letters/genai.py
+- ./postprocessing/jobbert_test.py
+
+Files containing 'ui_elements':
+- ./user_input/main_ui.py
+- ./user_input/project_component.py
+- ./user_input/education_component.py
+- ./user_input/experience_component.py
+
+Files containing 'ui_functions':
+- ./user_input/main_ui.py
+
+Files containing 'ui_theme':
+- ./user_input/main_ui.py
+- ./user_input/project_component.py
+- ./user_input/education_component.py
+- ./user_input/experience_component.py
+

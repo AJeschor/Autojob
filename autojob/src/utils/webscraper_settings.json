@@ -1,0 +1,18 @@
+{
+  "Webscraper_Settings": {
+    "RUN_INPUT": {
+      "position": "biology, chemistry, ecology, genetics, laboratory, quality assurance",
+      "country": "CA",
+      "location": "Ottawa",
+      "maxItems": 100,
+      "parseCompanyDetails": true,
+      "saveOnlyUniqueItems": true,
+      "followApplyRedirects": true,
+      "maxConcurrency": 5
+    },
+    "SCHEDULE_OPTION": "weekly",
+    "SCHEDULED_TIME": "13:00",
+    "SCHEDULED_DAY": "monday",
+    "SCHEDULED_PERIOD": "7"
+  }
+}
