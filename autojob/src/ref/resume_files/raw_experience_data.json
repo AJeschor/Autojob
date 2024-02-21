@@ -1,0 +1,98 @@
+[
+    {
+        "Company Name": "KJND Contracting",
+        "Company Location": "Ottawa, Canada",
+        "Role": "Project Specialist",
+        "Start Date": "Jan 2022",
+        "End Date": "Oct 2023",
+        "Description": [
+            "Implemented streamlined processes to monitor and report the budget efficiently contributing to the overall excellence of KJND Contracting projects",
+            "Collaborate with clients to acquire blueprints, using them to meticulously curate comprehensive material lists",
+            "Skillfully manage change orders, ensuring precise adjustments to the budget",
+            "Coordinate the allocation of new work orders, maintaining effective communication with the sole contractor and relevant parties",
+            "Take charge of inventory management for non-project-specific consumables, encompassing costs of items like tools that contribute to the overall cost of goods sold",
+            "Receive weekly payroll data from employees and meticulously validate its accuracy",
+            "Collaborate with team leads to ensure the correctness of payroll information",
+            "Additionally, ensure the punctual and precise submission of required deductions to government authorities in accordance with regulations",
+            "Conduct regular audits and thorough analyses to ensure unwavering adherence to government regulations and compliance standards within the construction industry",
+            "Stay updated on relevant laws and regulations to provide valuable guidance in mitigating potential risks",
+            "Engage with cross-functional teams to implement necessary changes, effectively safeguarding KJND Contracting's commitment to compliance",
+            "Proficiency in AI integration to process audio recordings for report generation",
+            "Strong software development skills for the AI-driven reporting platform",
+            "Data analysis expertise for working with large datasets and audio data insights",
+            "In-depth knowledge of roofing and building envelope domain",
+            "Expertise in report generation and data transformation",
+            "AI technology implementation and optimization skills",
+            "Project management to oversee multifaceted system development",
+            "Communication and collaboration for effective team coordination",
+            "Quality assurance to ensure comprehensive and accurate reporting",
+            "Problem-solving to address challenges in report generation and AI implementation"
+        ]
+    },
+    {
+        "Company Name": "Kolab Project",
+        "Company Location": "Carleton Place, Canada",
+        "Role": "Post Production Technician",
+        "Start Date": "May 2021",
+        "End Date": "Jun 2021",
+        "Description": [
+            "Improved efficiencies and productivity by learning various skills, including production room sanitation, Good Production Practices (GPP), and use of industry-related equipment",
+            "Enhanced operational efficiency through the mastery of production room sanitation, equipment setup (calibration, cleaning, etc.), and utilization of industry-specific machinery",
+            "Maintained meticulous records, promptly identifying and resolving discrepancies in production documentation",
+            "Executed end-to-end manufacturing, packaging, and batch sampling processes with a relentless commitment to product excellence",
+            "Championed strict adherence to clean-room and sanitization protocols, ensuring unwavering compliance with Good Production Practice (GPP) standards",
+            "Conducted pre-roll manufacturing processes with precision and expertise",
+            "Managed packaging runs with acute attention to detail and quality standards",
+            "Contributed to seamless order fulfillment, meeting customer demands efficiently",
+            "Conducted batch sampling for external testing, upholding stringent quality control practices",
+            "Demonstrated unwavering adherence to the company's Standard Operating Procedures (SOPs) to maintain product consistency and quality",
+            "Collaborated with the Operations and Production team to uphold organization and sanitation standards within the Kolab facility",
+            "Exhaustively documented all production and sanitation activities, ensuring comprehensive record-keeping and compliance"
+        ]
+    },
+    {
+        "Company Name": "Kolab Project",
+        "Company Location": "Carleton Place, Canada",
+        "Role": "Quality Assurance Associate",
+        "Start Date": "Jul 2021",
+        "End Date": "Nov 2021",
+        "Description": [
+            "Led the conversion of the facility to a 24/7 operation by scheduling shifts and updating training",
+            "Developed and recommended system, process, and procedure improvements resulting in productivity increases and cost reductions",
+            "Reviewed, analyzed, and illustrated data to facilitate decision-making",
+            "Provided consultation on QC sampling procedures",
+            "Collaborated with various departments to ensure compliance with regulations",
+            "Completed paperwork (production records), recognized discrepancies, and promptly addressed them for resolution",
+            "Performed all manufacturing, packaging, and batch sampling processes to ensure high quality",
+            "Knowledgeable in quality control and assurance, including SOPs and ISO standards",
+            "Maintained stringent adherence to clean-room and sanitization protocols, including the proper use of specialized attire and personal protective equipment, to ensure compliance with Good Manufacturing Practice (GMP) and Good Production Practice (GPP) standards for a sterile manufacturing environment",
+            "Proficient in maintaining accurate records and documentation",
+            "Approved all Standard Operating Procedures (SOPs) prior to their implementation",
+            "Reviewed operational forms before sending them to be signed off",
+            "Kept and maintained an auditable batch record and maintained retention samples from each batch/lot sold",
+            "Investigated client complaints related to product quality",
+            "Initiated corrective and preventive action (CAPAs) when investigating quality issues",
+            "Researched and approved the use of products that may come into contact with the product",
+            "Developed and implemented an automated system for processing third-party lab results, which included receiving Certificates of Analysis, extracting and parsing data, updating a Sharepoint database, and generating cover letters, in-house Certificates of Analysis, and compliance documentation",
+            "Ensured compliance with environmental regulations by researching and implementing proper disposal procedures for the chemicals in use",
+            "Understood and helped implement Health Canada & other government regulations",
+            "Participated in Health Canada audits and helped ensure the facility was compliant with them",
+            "Helped develop SOPs and documents related to regulatory affairs prior to their implementation"
+        ]
+    },
+    {
+        "Company Name": "National Research Council Canada",
+        "Company Location": "Ottawa, Canada",
+        "Role": "Proposal Evaluator (Volunteer)",
+        "Start Date": "Nov 2020",
+        "End Date": "Dec 2020",
+        "Description": [
+            "Validated project proposal data and audited information for accuracy and integrity",
+            "Completed work on the COVID-19: Recycling technologies for disposable (single-use) Personal Protective Equipment (PPE) used in the healthcare sector",
+            "Utilized scientific research papers, official industry statistics, existing patents, and standards for analysis",
+            "Assessed proposals sent to Innovative Solutions Canada used to allocate funding for two challenges related to COVID-19 personal protective equipment in November 2020",
+            "Evaluated proposals sent by various businesses for the creation of compostable disposable surgical masks and compostable disposable respirators, including recycling technologies for disposable personal protective equipment utilized in the Canadian healthcare system"
+        ]
+    }
+]
+

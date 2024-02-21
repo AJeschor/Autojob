@@ -1,0 +1,32 @@
+{
+    "id": "9e5ae2548348426c",
+    "companyDescription": "",
+    "description": "Department: Front Desk, Courtyard by Marriott Ottawa East\nPosition: Full Time Guest Service Agent / Unionized position\nHours: Days, Evenings, Weekends & Holidays. Shifts are between 6:45 am - 11:15 pm\nReport to: Front Office Manager, Assistant Front Office Manager, Supervisors\nQualifications include but are not limited to:\n\n Must be bilingual\n Must have a minimum of 6-12 months customer service experience\n Willing to be scheduled as needed & as the need arises\n Comfortable with computers and phones.\n Must have the ability to express themselves diplomatically with staff and guests\n Must be able to work and communicate in a professional and ethical manner with colleagues assisting where necessary to achieve and maintain standards.\n Must demonstrate the ability to independently solve problems\n Must be able to work & concentrate in a high volume area\n Must be efficient, well organized and able to handle multiple tasks\n Possess a commitment to guest service\n Comply with quality assurance expectations and standards\n Ability to stand, sit, or walk for an extended period of time\" entire shift\" , Move, lift, carry, push, pull, and place objects weighing less than or equal to 10 pounds without assistance.\n Perform other reasonable job duties as requested by Supervisors\n\nStarting Date: October 2023\nWage per hour as per Collective Agreement.\nAll applications will be reviewed and only viable candidates will be scheduled for an interview.\nJob Type: Full-time\nSalary: $20.60 per hour\nAbility to commute/relocate:\n\n Ottawa, ON K1K 4S3: reliably commute or plan to relocate before starting work (required)\n\nExperience:\n\n hotel front desk: 1 year (preferred)\n\nWork Location: In person\nApplication deadline: 2023-10-30Expected start date: 2023-10-31",
+    "preprocessed_description": "Department: Front Desk, Courtyard by Marriott Ottawa East Position: Full Time Guest Service Agent / Unionized position Hours: Days, Evenings, Weekends & Holidays. Shifts are between 6:45 am - 11:15 pm Report to: Front Office Manager, Assistant Front Office Manager, Supervisors Qualifications include but are not limited to: Must be bilingual Must have a minimum of 6-12 months customer service experience Willing to be scheduled as needed & as the need arises Comfortable with computers and phones. Must have the ability to express themselves diplomatically with staff and guests Must be able to work and communicate in a professional and ethical manner with colleagues assisting where necessary to achieve and maintain standards. Must demonstrate the ability to independently solve problems Must be able to work & concentrate in a high volume area Must be efficient, well organized and able to handle multiple tasks Possess a commitment to guest service Comply with quality assurance expectations and standards Ability to stand, sit, or walk for an extended period of time\" entire shift\" , Move, lift, carry, push, pull, and place objects weighing less than or equal to 10 pounds without assistance. Perform other reasonable job duties as requested by Supervisors Starting Date: October 2023 Wage per hour as per Collective Agreement. All applications will be reviewed and only viable candidates will be scheduled for an interview. Job Type: Full-time Salary: $20.60 per hour Ability to commute/relocate: Ottawa, ON K1K 4S3: reliably commute or plan to relocate before starting work (required) Experience: hotel front desk: 1 year (preferred) Work Location: In person Application deadline: 2023-10-30Expected start date: 2023-10-31",
+    "processed_description": "department Desk Courtyard . shift report Office Manager Assistant Office Manager Supervisors Qualifications include limit minimum customer service schedule comfortable computer phone . express diplomatically staff guest communicate professional ethical manner colleague assist achieve maintain standard . demonstrate independently solve problem concentrate high volume area efficient organized handle multiple task possess commitment guest service comply quality assurance expectation standard stand sit walk extended period entire shift lift carry push pull place object weigh equal pound assistance . perform reasonable duty request supervisor start wage hour Collective Agreement . application review viable schedule interview . type salary hour commute relocate 4s3 reliably commute plan relocate start require hotel desk preferred location person application deadline 30expected start",
+    "results_group": {
+        "extracted_noun_chunks": [
+            "type salary hour commute",
+            "diplomatically staff guest",
+            "high volume area",
+            "shift report Office Manager Assistant Office Manager Supervisors Qualifications",
+            "standard",
+            "application review viable schedule interview",
+            "extended period entire shift lift",
+            "quality assurance expectation standard",
+            "4s3 reliably commute plan",
+            "minimum customer service schedule comfortable computer phone",
+            "reasonable duty request supervisor",
+            "hotel desk preferred location person application deadline",
+            "problem",
+            "push pull place object",
+            "wage hour Collective Agreement",
+            "professional ethical manner colleague",
+            "multiple task possess commitment guest service",
+            "department Desk Courtyard",
+            "start",
+            "equal pound assistance"
+        ],
+        "combined_lemmatized_tokens": "department Desk Courtyard . shift report Office Manager Assistant Office Manager Supervisors Qualifications include limit minimum customer service schedule comfortable computer phone . express diplomatically staff guest communicate professional ethical manner colleague assist achieve maintain standard . demonstrate independently solve problem concentrate high volume area efficient organized handle multiple task possess commitment guest service comply quality assurance expectation standard stand sit walk extended period entire shift lift carry push pull place object weigh equal pound assistance . perform reasonable duty request supervisor start wage hour Collective Agreement . application review viable schedule interview . type salary hour commute relocate 4s3 reliably commute plan relocate start require hotel desk preferred location person application deadline 30expected start"
+    }
+}

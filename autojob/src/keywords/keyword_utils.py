@@ -2,6 +2,18 @@
 
 from collections import Counter
 
+def merge_keyterms(data):
+    merged_list = []
+    
+    for key in data:
+        for entry in data[key]:
+            # Remove numeric elements from the list
+            entry_without_numeric = [item for item in entry[0].split() if not item.replace('.', '').isdigit()]
+            # Join the elements back into a single string
+            merged_list.append(' '.join(entry_without_numeric))
+    
+    return merged_list
+
 def merge_similar_strings(list_of_strings, threshold=0.5):
     merged_strings = []
 
@@ -29,34 +41,4 @@ def merge_similar_strings(list_of_strings, threshold=0.5):
     merged_strings = [' '.join(list(set(string.split()))) for string in merged_strings]
 
     return merged_strings
-
-# Function to merge similar keywords
-def merge_keywords(textacy_results):
-    """
-    Merge similar keywords from different extraction algorithms.
-
-    Parameters:
-    - textacy_results (dict): Dictionary containing keyterms extracted using textacy.
-
-    Returns:
-    - dict: Dictionary with merged keyterms.
-    """
-    # Extracting the string values from the textacy_results
-    scake_strings = textacy_results.get("scake_keyterms", [])
-    textrank_strings = textacy_results.get("textrank_keyterms", [])
-    singlerank_strings = textacy_results.get("singlerank_keyterms", [])
-    positionrank_strings = textacy_results.get("positionrank_keyterms", [])
-
-    # Combining the lists
-    combined_strings = [item[0] for sublist in [scake_strings, textrank_strings, singlerank_strings, positionrank_strings] for item in sublist]
-
-    # Merging similar strings with unique words
-    merged_strings = merge_similar_strings(combined_strings, threshold=0.5)
-
-    # Output the merged_strings to a dictionary
-    merged_keywords = {
-        'merged_strings': merged_strings
-    }
-
-    return merged_keywords
 

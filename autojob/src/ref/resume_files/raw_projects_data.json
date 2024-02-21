@@ -1,0 +1,44 @@
+[
+    {
+        "Project Title": "Grad Thesis Contribution",
+        "Project Link": "https://qspace.library.queensu.ca/items/bb7b7287-cb7e-4143-bc46-d78262466b30",
+        "Role": "Research Assistant",
+        "Start Date": "Jun 2018",
+        "End Date": "Jun 2018",
+        "Description": [
+            "Assisted in data collection for a graduate thesis on the diversity and function of the soil microbiome in a North American forest in response to Alliaria petiolata (garlic mustard) invasion",
+            "Conducted fieldwork to collect soil samples and measure root health of native plants co-occurring with A. petiolata",
+            "Conducted insect and botanical sampling to assess the biodiversity of the forest ecosystem",
+            "Identified and cataloged insect species and plant specimens using taxonomic keys and field guides",
+            "Processed soil samples for molecular analysis using high throughput sequencing of genomic DNA encoding for the ITS and 16S region of ribosomal RNA",
+            "Contributed to the understanding of the impact of plant invasion on nutrient cycling, insect populations, and other ecosystem services"
+        ]
+    },
+    {
+        "Project Title": "Autojob",
+        "Project Link": "https://github.com/AJeschor/autojob",
+        "Role": "Developer",
+        "Start Date": "May 2023",
+        "End Date": "Feb 2024",
+        "Description": [
+            "Proficiency in Named Entity Recognition (NER) techniques for automatic summarization of resumes",
+            "Expertise in semantic analysis and text matching, offering a versatile tool for assessing textual data similarity and relationships",
+            "Extensive knowledge of natural language processing techniques and word embeddings models to enable text content comparison",
+            "Application of NLP techniques for document retrieval, content recommendation, and semantic understanding of text",
+            "Implementation of keyword matching strategies to calculate KM scores for each keyword in user resumes and job descriptions, allowing for an overall rating score determination",
+            "Proficient in generating resumes from LaTeX templates and creating cover letters or objective statements that highlight user qualifications, including matching keywords and skills from job descriptions",
+            "Proficient in Python programming for developing desktop applications and text processing systems",
+            "Strong GUI development skills using the Tkinter library to create user-friendly interfaces",
+            "Demonstrated expertise in designing and structuring code into modular components for better organization and maintenance",
+            "Skilled in collecting, storing, and organizing data efficiently, with experience in managing lists and directories",
+            "Proficient in UI design, maintaining a visually appealing and consistent user interface",
+            "Experienced in file handling, including the compilation of user data into JSON files",
+            "Competent in text processing and data cleaning, particularly for JSON files",
+            "Knowledgeable in natural language processing (NLP) techniques and keyword extraction algorithms",
+            "Familiar with various keyword extraction methods, including YAKE, RAKE, PositionRank, SingleRank, MultipartiteRank, TopicRank, KeyBERT, KPMiner, and TF-IDF",
+            "Capable of managing and organizing data in multiple directories for analysis and storage",
+            "Strong problem-solving skills, addressing the need for keyword extraction from job descriptions in a practical context"
+        ]
+    }
+]
+

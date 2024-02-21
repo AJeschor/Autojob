@@ -1,0 +1,20 @@
+{
+    "id": "989d75ea25ce24bf",
+    "companyDescription": "",
+    "description": "Education: Secondary (high) school graduation certificate \n  Experience: Will train \n  Work setting\n   Commercial dental laboratory\n   Tasks\n   Perform administrative functions for the dental laboratory\n   Design, fabricate or repair dental devices\n   Maintain and order supplies\n   Security and safety\n   Basic security clearance\n   Criminal record check\n   Work conditions and physical capabilities\n   Fast-paced environment\n   Work under pressure\n   Tight deadlines\n   Attention to detail\n   Ability to distinguish between colours\n   Personal suitability\n   Client focus\n   Efficient interpersonal skills\n   Flexibility\n   Judgement\n   Team player \n  Work Term: Permanent \n  Work Language: English \n  Hours: 40 to 44 hours per week",
+    "preprocessed_description": "Education: Secondary (high) school graduation certificate Experience: Will train Work setting Commercial dental laboratory Tasks Perform administrative functions for the dental laboratory Design, fabricate or repair dental devices Maintain and order supplies Security and safety Basic security clearance Criminal record check Work conditions and physical capabilities Fast-paced environment Work under pressure Tight deadlines Attention to detail Ability to distinguish between colours Personal suitability Client focus Efficient interpersonal skills Flexibility Judgement Team player Work Term: Permanent Work Language: English Hours: 40 to 44 hours per week",
+    "processed_description": "education secondary high school graduation certificate train set commercial dental laboratory Tasks perform administrative function dental laboratory Design fabricate repair dental device maintain order supply safety Basic security clearance criminal record check condition physical capability fast pace environment pressure tight deadline attention detail distinguish colour personal suitability Client focus efficient interpersonal skill Flexibility Judgement Team player Term Permanent Language week",
+    "results_group": {
+        "extracted_noun_chunks": [
+            "order supply safety Basic security clearance criminal record check condition physical capability fast pace environment",
+            "commercial dental laboratory Tasks",
+            "tight deadline attention detail",
+            "repair dental device",
+            "efficient interpersonal skill Flexibility Judgement Team player",
+            "colour personal suitability Client",
+            "education secondary high school graduation certificate train",
+            "administrative function dental laboratory Design"
+        ],
+        "combined_lemmatized_tokens": "education secondary high school graduation certificate train set commercial dental laboratory Tasks perform administrative function dental laboratory Design fabricate repair dental device maintain order supply safety Basic security clearance criminal record check condition physical capability fast pace environment pressure tight deadline attention detail distinguish colour personal suitability Client focus efficient interpersonal skill Flexibility Judgement Team player Term Permanent Language week"
+    }
+}

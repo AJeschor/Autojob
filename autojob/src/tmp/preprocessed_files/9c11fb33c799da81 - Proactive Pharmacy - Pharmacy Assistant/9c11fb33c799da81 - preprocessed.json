@@ -1,0 +1,38 @@
+{
+    "id": "9c11fb33c799da81",
+    "companyDescription": "",
+    "description": "Responsibilities:- Assist pharmacists in dispensing medications to patients- Prepare and package medications for distribution- Maintain inventory of medications and supplies- Enter prescription information into computer systems- Answer phone calls and assist with customer inquiries- Process insurance claims and handle billing procedures- Provide excellent customer service to patients and healthcare professionals- Follow all safety protocols and maintain a clean and organized work area\nSkills:- Strong attention to detail and accuracy- Excellent organizational and multitasking abilities- Proficient computer skills, including knowledge of pharmacy software system (KROLL)- Exceptional communication skills, both verbal and written- Ability to work well in a fast-paced environment- Knowledge of medical terminology and pharmaceutical calculations is a plus\nAs a Pharmacy Assistant in a community setting, you will play a vital role in supporting the pharmacy team in providing quality healthcare services to patients. Your responsibilities will include assisting with medication dispensing, inventory management, customer service, and administrative tasks. Strong attention to detail, excellent organizational skills, and the ability to work efficiently in a fast-paced environment are essential for success in this role. If you have a passion for healthcare and enjoy working as part of a great team, we encourage you to apply for this position.\nJob Type: Part-time\nSalary: $18.00-$22.00 per hour\nExpected hours: 6 \u2013 20 per week\nSchedule:\n\n Monday to Friday\n Weekends as needed\n\nAbility to commute/relocate:\n\n Ottawa, ON K1V 7Z1: reliably commute or plan to relocate before starting work (required)\n\nExperience:\n\n pharmacy: 1 year (required)\n\nWork Location: In person",
+    "preprocessed_description": "Responsibilities:- Assist pharmacists in dispensing medications to patientsPrepare and package medications for distributionMaintain inventory of medications and suppliesEnter prescription information into computer systemsAnswer phone calls and assist with customer inquiriesProcess insurance claims and handle billing proceduresProvide excellent customer service to patients and healthcare professionalsFollow all safety protocols and maintain a clean and organized work area Skills:- Strong attention to detail and accuracyExcellent organizational and multitasking abilitiesProficient computer skills, including knowledge of pharmacy software system (KROLL)- Exceptional communication skills, both verbal and writtenAbility to work well in a fast-paced environmentKnowledge of medical terminology and pharmaceutical calculations is a plus As a Pharmacy Assistant in a community setting, you will play a vital role in supporting the pharmacy team in providing quality healthcare services to patients. Your responsibilities will include assisting with medication dispensing, inventory management, customer service, and administrative tasks. Strong attention to detail, excellent organizational skills, and the ability to work efficiently in a fast-paced environment are essential for success in this role. If you have a passion for healthcare and enjoy working as part of a great team, we encourage you to apply for this position. Job Type: Part-time Salary: $18.00-$22.00 per hour Expected hours: 6 \u2013 20 per week Schedule: Monday to Friday Weekends as needed Ability to commute/relocate: Ottawa, ON K1V 7Z1: reliably commute or plan to relocate before starting work (required) Experience: pharmacy: 1 year (required) Work Location: In person",
+    "processed_description": "pharmacist dispense medication patientsPrepare package medication distributionmaintain inventory medication suppliesenter prescription information computer systemsanswer phone assist customer inquiriesprocess insurance claim handle billing proceduresprovide excellent customer service patient healthcare safety protocol maintain clean organize area strong attention detail accuracyexcellent organizational multitasking abilitiesproficient computer skill include knowledge pharmacy software system KROLL exceptional communication skill verbal writtenability fast pace environmentknowledge medical terminology pharmaceutical calculation Pharmacy Assistant community setting play vital role support pharmacy team provide quality healthcare service patient . responsibility include assist medication dispensing inventory management customer service administrative task . strong attention detail excellent organizational skill efficiently fast pace environment essential success role . passion healthcare enjoy great team encourage apply position . type salary hour expect \u2013 week schedule commute relocate K1V reliably commute plan relocate start require pharmacy require location person",
+    "results_group": {
+        "extracted_noun_chunks": [
+            "position",
+            "inventory management customer service administrative task",
+            "patientsPrepare package medication distributionmaintain inventory medication",
+            "type salary hour",
+            "start",
+            "pharmacist dispense medication",
+            "pharmacy",
+            "great team",
+            "knowledge pharmacy software system",
+            "passion healthcare",
+            "customer inquiriesprocess insurance claim",
+            "strong attention detail excellent organizational skill",
+            "location person",
+            "responsibility",
+            "quality healthcare service patient",
+            "systemsanswer phone",
+            "K1V reliably commute plan",
+            "week schedule commute",
+            "billing proceduresprovide excellent customer service patient healthcare safety protocol",
+            "KROLL exceptional communication skill",
+            "fast pace environmentknowledge medical terminology pharmaceutical calculation Pharmacy Assistant community",
+            "clean organize area strong attention detail",
+            "suppliesenter prescription information computer",
+            "essential success role",
+            "medication",
+            "accuracyexcellent organizational multitasking abilitiesproficient computer skill"
+        ],
+        "combined_lemmatized_tokens": "pharmacist dispense medication patientsPrepare package medication distributionmaintain inventory medication suppliesenter prescription information computer systemsanswer phone assist customer inquiriesprocess insurance claim handle billing proceduresprovide excellent customer service patient healthcare safety protocol maintain clean organize area strong attention detail accuracyexcellent organizational multitasking abilitiesproficient computer skill include knowledge pharmacy software system KROLL exceptional communication skill verbal writtenability fast pace environmentknowledge medical terminology pharmaceutical calculation Pharmacy Assistant community setting play vital role support pharmacy team provide quality healthcare service patient . responsibility include assist medication dispensing inventory management customer service administrative task . strong attention detail excellent organizational skill efficiently fast pace environment essential success role . passion healthcare enjoy great team encourage apply position . type salary hour expect \u2013 week schedule commute relocate K1V reliably commute plan relocate start require pharmacy require location person"
+    }
+}

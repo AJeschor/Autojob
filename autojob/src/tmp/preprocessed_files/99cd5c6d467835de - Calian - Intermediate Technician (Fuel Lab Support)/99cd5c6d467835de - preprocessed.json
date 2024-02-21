@@ -1,0 +1,30 @@
+{
+    "id": "99cd5c6d467835de",
+    "companyDescription": "",
+    "description": "Position Overview \n  Calian is looking for Intermediate Technician for a Fuel Laboratory in Gatineau. \n \n  \n   \n     Location\n    \n      Gatineau, QC\n    \n   \n   \n     Job Type\n    \n      Full Time\n    \n   \n  \n  \n Responsibilities \n \n  Provide technical support to the section or the development of other ISO 17025, training and/or information management; proposing suitable procedures and appropriate recommendations in order to improve work quality \n  Plan and organize work to meet deadlines. Analyze, evaluate and resolve technical problems in a logical manner \n  Draft and maintain SOPs associated with ISO 17025 certification \n  Draft general correspondence and provide briefings in order to communicate issues, resolve problems, update work status, and disseminate information \n  Coordinate quality system audits and assist in the performance of quality system audits \n \n Qualifications \n \n  Must currently hold or be eligible for Secret \u2013 Level II Clearance with the Government of Canada \n  College certificate in analytical chemistry or 9 years of experience in the past 15 as a technician performing chemical analysis \n  Four years of experience in providing advice and direction on regulations, acquisition and control of petroleum, oil, fuels, and lubricants related to but not limited to aviation \n  One year of experience in coordinating the field audits and assisting in the performance of field audits at fueling facilities",
+    "preprocessed_description": "Position Overview Calian is looking for Intermediate Technician for a Fuel Laboratory in Gatineau. Location Gatineau, Quality Control Job Type Full Time Responsibilities Provide technical support to the section or the development of other ISO 17025, training and/or information management; proposing suitable procedures and appropriate recommendations in order to improve work quality Plan and organize work to meet deadlines. Analyze, evaluate and resolve technical problems in a logical manner Draft and maintain Standard Operating Procedures associated with ISO 17025 certification Draft general correspondence and provide briefings in order to communicate issues, resolve problems, update work status, and disseminate information Coordinate quality system audits and assist in the performance of quality system audits Qualifications Must currently hold or be eligible for Secret \u2013 Level II Clearance with the Government of Canada College certificate in analytical chemistry or 9 years of experience in the past 15 as a technician performing chemical analysis Four years of experience in providing advice and direction on regulations, acquisition and control of petroleum, oil, fuels, and lubricants related to but not limited to aviation One year of experience in coordinating the field audits and assisting in the performance of field audits at fueling facilities",
+    "processed_description": "Position Overview Calian . Quality Control Type responsibility provide technical support development ISO training information management propose suitable procedure appropriate recommendation order improve quality plan organize meet deadline . Analyze evaluate resolve technical problem logical manner draft maintain associate ISO certification Draft general correspondence provide briefing order communicate issue resolve problem update status disseminate information coordinate quality system audit assist performance quality system audits qualification currently hold eligible Government College certificate analytical chemistry technician perform chemical analysis provide advice direction regulation acquisition control petroleum oil fuel lubricant relate limit aviation coordinate field audits assist performance field audits fuel facility",
+    "results_group": {
+        "extracted_noun_chunks": [
+            "technical problem",
+            "eligible Government College certificate analytical chemistry technician",
+            "associate ISO certification Draft general correspondence",
+            "aviation coordinate field audits",
+            "performance field audits fuel facility",
+            "Position Overview Calian",
+            "problem update status",
+            "meet deadline",
+            "quality plan",
+            "petroleum oil fuel lubricant",
+            "information",
+            "logical manner draft",
+            "chemical analysis",
+            "briefing order",
+            "suitable procedure appropriate recommendation order",
+            "Quality Control Type responsibility",
+            "performance quality system audits qualification",
+            "technical support development ISO training information management"
+        ],
+        "combined_lemmatized_tokens": "Position Overview Calian . Quality Control Type responsibility provide technical support development ISO training information management propose suitable procedure appropriate recommendation order improve quality plan organize meet deadline . Analyze evaluate resolve technical problem logical manner draft maintain associate ISO certification Draft general correspondence provide briefing order communicate issue resolve problem update status disseminate information coordinate quality system audit assist performance quality system audits qualification currently hold eligible Government College certificate analytical chemistry technician perform chemical analysis provide advice direction regulation acquisition control petroleum oil fuel lubricant relate limit aviation coordinate field audits assist performance field audits fuel facility"
+    }
+}

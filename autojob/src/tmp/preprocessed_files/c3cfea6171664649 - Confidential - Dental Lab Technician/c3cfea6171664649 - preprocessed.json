@@ -1,0 +1,37 @@
+{
+    "id": "c3cfea6171664649",
+    "companyDescription": "",
+    "description": "Are you detail oriented and have a passion for crafting a high-quality dental prosthetics. Our renowned practice, with over 20 years in the community is looking for a talented Dental Lab Technician, who can work closely with our team of highly trained doctors. The ideal candidate will have 2-3 years experience in a dental laboratory, have expertise in dentures, implants and implant denture, and digital design.\nDuties & Responsibilities:\n\n Scan, design, and mill crowns & implant abutments.\n Operate and maintain various dental milling machines and 3D printers.\n Previous experience in plaster and model work is an asset.\n Computer skills and hardware troubleshooting.\n Design, fabricate or repair dental devices.\n Attention to details and good communication skills.\n Quality control\n Education: College, CEGEP or other non-university certificate or diploma from a program of 1 year to 2 years\n Experience: 3-5 years or more\n\nRequirements:\n\u00b7 Certified Dental Lab Technician\n\u00b7 Strong communication skills, time management, and case planning\n\u00b7 Proficient in fabricating implant dentures from start to finish\n\u00b7 A vast knowledge of dental anatomy, occlusion and the materials utilized in fabrication\nWe Offer:\n\u00b7 30-40 hr work week\n\u00b7 Extended Health Benefits\n\u00b7 Competitive salary\n\u00b7 A collaborative work environment\nJob Types: Full-time, Part-time, PermanentPart-time hours: 30-40 per week\nBenefits:\n\n Dental care\n Paid time off\n\nSchedule:\n\n Monday to Friday\n\nAbility to commute/relocate:\n\n Ontario: reliably commute or plan to relocate before starting work (required)\n\nExperience:\n\n dental technician: 3 years (required)\n\nWork Location: In person",
+    "preprocessed_description": "Are you detail oriented and have a passion for crafting a high-quality dental prosthetics. Our renowned practice, with over 20 years in the community is looking for a talented Dental Lab Technician, who can work closely with our team of highly trained doctors. The ideal candidate will have 2-3 years experience in a dental laboratory, have expertise in dentures, implants and implant denture, and digital design. Duties & Responsibilities: Scan, design, and mill crowns & implant abutments. Operate and maintain various dental milling machines and 3D printers. Previous experience in plaster and model work is an asset. Computer skills and hardware troubleshooting. Design, fabricate or repair dental devices. Attention to details and good communication skills. Quality control Education: College, CEGEP or other non-university certificate or diploma from a program of 1 year to 2 years Experience: 3-5 years or more Requirements: \u00b7 Certified Dental Lab Technician \u00b7 Strong communication skills, time management, and case planning \u00b7 Proficient in fabricating implant dentures from start to finish \u00b7 A vast knowledge of dental anatomy, occlusion and the materials utilized in fabrication We Offer: \u00b7 30-40 hr work week \u00b7 Extended Health Benefits \u00b7 Competitive salary \u00b7 A collaborative work environment Job Types: Full-time, Part-time, PermanentPart-time hours: 30-40 per week Benefits: Dental care Paid time off Schedule: Monday to Friday Ability to commute/relocate: Ontario: reliably commute or plan to relocate before starting work (required) Experience: dental technician: 3 years (required) Work Location: In person",
+    "processed_description": "detail orient passion craft high quality dental prosthetic . renowned practice community closely team highly train doctor . ideal dental laboratory expertise denture implant implant denture digital design . duty Responsibilities Scan design mill crown implant abutment . operate maintain dental milling machine 3d printer . previous plaster model asset . computer skill hardware troubleshooting . design fabricate repair dental device . attention detail good communication skill . quality control Education College university certificate diploma program requirement \u00b7 \u00b7 strong communication skill management case planning \u00b7 proficient fabricate implant denture start finish \u00b7 vast knowledge dental anatomy occlusion material utilize fabrication offer \u00b7 Extended health benefit \u00b7 competitive salary \u00b7 collaborative environment type PermanentPart hour week benefit dental care paid Schedule commute relocate reliably commute plan relocate start require dental technician require location person",
+    "results_group": {
+        "extracted_noun_chunks": [
+            "dental milling machine 3d printer",
+            "dental technician",
+            "computer skill hardware troubleshooting",
+            "Extended health benefit \u00b7 competitive salary \u00b7 collaborative environment type",
+            "Schedule commute",
+            "dental care",
+            "duty Responsibilities Scan",
+            "previous plaster model asset",
+            "strong communication skill management case",
+            "high quality dental prosthetic",
+            "PermanentPart",
+            "location person",
+            "quality control Education College university certificate diploma program requirement",
+            "ideal dental laboratory expertise denture implant implant denture digital design",
+            "fabrication offer",
+            "renowned practice community closely team",
+            "detail orient passion craft",
+            "highly train doctor",
+            "attention detail good communication skill",
+            "design mill crown implant abutment",
+            "vast knowledge dental anatomy occlusion material",
+            "implant denture start",
+            "start",
+            "design",
+            "reliably commute plan"
+        ],
+        "combined_lemmatized_tokens": "detail orient passion craft high quality dental prosthetic . renowned practice community closely team highly train doctor . ideal dental laboratory expertise denture implant implant denture digital design . duty Responsibilities Scan design mill crown implant abutment . operate maintain dental milling machine 3d printer . previous plaster model asset . computer skill hardware troubleshooting . design fabricate repair dental device . attention detail good communication skill . quality control Education College university certificate diploma program requirement \u00b7 \u00b7 strong communication skill management case planning \u00b7 proficient fabricate implant denture start finish \u00b7 vast knowledge dental anatomy occlusion material utilize fabrication offer \u00b7 Extended health benefit \u00b7 competitive salary \u00b7 collaborative environment type PermanentPart hour week benefit dental care paid Schedule commute relocate reliably commute plan relocate start require dental technician require location person"
+    }
+}

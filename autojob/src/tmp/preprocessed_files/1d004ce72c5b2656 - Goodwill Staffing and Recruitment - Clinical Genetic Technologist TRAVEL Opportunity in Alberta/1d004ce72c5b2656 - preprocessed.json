@@ -1,0 +1,17 @@
+{
+    "id": "1d004ce72c5b2656",
+    "companyDescription": "",
+    "description": "Genetic Technologists use a variety of instruments to analyze and diagnose changes or abnormalities in chromosomes and DNA, which are unique to every individual. A genetic technologist\u2019s analysis of these cells can lead to a diagnosis of genetic diseases. \n\n \nHourly Wage: $65",
+    "preprocessed_description": "Genetic Technologists use a variety of instruments to analyze and diagnose changes or abnormalities in chromosomes and DNA, which are unique to every individual. A genetic technologist's analysis of these cells can lead to a diagnosis of genetic diseases. Hourly Wage: $65",
+    "processed_description": "variety instrument analyze diagnose change abnormality chromosome DNA unique individual . genetic technologist's analysis cell lead diagnosis genetic disease . Hourly Wage",
+    "results_group": {
+        "extracted_noun_chunks": [
+            "Hourly Wage",
+            "variety instrument",
+            "diagnosis genetic disease",
+            "genetic technologist's analysis cell",
+            "diagnose change abnormality chromosome DNA unique individual"
+        ],
+        "combined_lemmatized_tokens": "variety instrument analyze diagnose change abnormality chromosome DNA unique individual . genetic technologist's analysis cell lead diagnosis genetic disease . Hourly Wage"
+    }
+}

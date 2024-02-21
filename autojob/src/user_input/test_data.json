@@ -1,0 +1,169 @@
+{
+    "heading": {
+        "name": "Alex Jeschor",
+        "email": "alexjeschor@gmail.com",
+        "phone_number": "613-322-5302",
+        "linkedin": "https://www.linkedin.com/in/alex-jeschor-5327901b2/",
+        "github": "https://github.com/AJeschor",
+        "user_location": "Ottawa, Canada"
+    },
+    "skills": [
+        "Expertise in biology, genetics, molecular biology, genomic data analysis, and bioinformatics.",
+        "Proficient in cell biology, microbiology, pharmacology, plant ecology, conservation biology, and marine conservation.",
+        "Strong background in biotechnology, bioinformatics, ecology research, and environmental science.",
+        "Knowledgeable in quality control and assurance, including SOPs and ISO standards.",
+        "Skilled in laboratory safety protocols and personal protective equipment.",
+        "Developing and maintaining effective working relationships with various groups and individuals.",
+        "Preparing technical and research reports and communicating results to diverse audiences.",
+        "Explaining the meaning and utility of information."
+    ],
+    "experiences": [
+        {
+            "role": "Proposal Evaluator (Volunteer)",
+            "description": [
+                "Validated project proposal data and audited information for accuracy and integrity.,",
+                "Completed work on the COVID-19: Recycling technologies for disposable (single-use) Personal Protective Equipment (PPE) used in the healthcare sector. Utilized scientific research papers, official industry statistics, existing patents, and standards for analysis.,",
+                "Assessed proposals sent to Innovative Solutions Canada used to allocate funding for two challenges related to COVID-19 personal protective equipment in November 2020.,",
+                "Evaluated proposals sent by various businesses for the creation of compostable disposable surgical masks and compostable disposable respirators, including recycling technologies for disposable personal protective equipment utilized in the Canadian healthcare system."
+            ],
+            "company_name": "National Research Council Canada",
+            "company_location": "Ottawa, Canada",
+            "start_date": "Nov 2000",
+            "end_date": "Dec 2020"
+        },
+        {
+            "role": "Quality Assurance Associate",
+            "description": [
+                "Led the conversion of the facility to a 24/7 operation by scheduling shifts and updating training.,",
+                "Developed and recommended system, process, and procedure improvements resulting in productivity increases and cost reductions.,",
+                "Participated in Health Canada audits and helped ensure the facility was compliant with them,",
+                "Helped develop SOPs and documents related to regulatory affairs prior to their implementation."
+            ],
+            "company_name": "Kolab Project",
+            "company_location": "Carleton Place, Canada",
+            "start_date": "Jul 2021",
+            "end_date": "Nov 2021"
+        },
+        {
+            "role": "Post Production Technician",
+            "description": [
+                "Improved efficiencies and productivity by learning various skills, including production room sanitation, Good Production Practices (GPP), and use of industry-related equipment.,",
+                "Enhanced operational efficiency through the mastery of production room sanitation, equipment setup (calibration, cleaning, etc.), and utilization of industry-specific machinery.,",
+                "Exhaustively documented all production and sanitation activities, ensuring comprehensive record-keeping and compliance."
+            ],
+            "company_name": "Kolab Project",
+            "company_location": "Carleton Place, Canada",
+            "start_date": "May 2021",
+            "end_date": "Jun 2021"
+        },
+        {
+            "role": "Project Specialist",
+            "description": [
+                "Implemented streamlined processes to monitor and report the budget efficiently contributing to the overall excellence of KJND Contracting projects.",
+                "Collaborate with clients to acquire blueprints, using them to meticulously curate comprehensive material lists.",
+                "Problem-solving to address challenges in report generation and AI implementation."
+            ],
+            "company_name": "KJND Contracting",
+            "company_location": "Ottawa, Canada",
+            "start_date": "Jan 2022",
+            "end_date": "Oct 2023"
+        }
+    ],
+    "projects": [
+        {
+            "role": "Research Assistant",
+            "description": [
+                "Assisted in data collection for a graduate thesis on the diversity and function of the soil microbiome in a North American forest in response to Alliaria petiolata (garlic mustard) invasion.,",
+                "Conducted fieldwork to collect soil samples and measure root health of native plants co-occurring with A. petiolata.,",
+                "Conducted insect and botanical sampling to assess the biodiversity of the forest ecosystem.,",
+                "Identified and cataloged insect species and plant specimens using taxonomic keys and field guides.,",
+                "Processed soil samples for molecular analysis using high throughput sequencing of genomic DNA encoding for the ITS and 16S region of ribosomal RNA.,",
+                "Contributed to the understanding of the impact of plant invasion on nutrient cycling, insect populations, and other ecosystem services."
+            ],
+            "project_title": "Queen's University",
+            "Project_Link": "https://qspace.library.queensu.ca/items/bb7b7287-cb7e-4143-bc46-d78262466b30",
+            "start_date": "Jun 2018",
+            "end_date": "Jun 2018"
+        },
+        {
+            "role": "Sole Developer",
+            "description": [
+                "Proficiency in Named Entity Recognition (NER) techniques for automatic summarization of resumes.",
+                "Expertise in semantic analysis and text matching, offering a versatile tool for assessing textual data similarity and relationships.",
+                "Strong problem-solving skills, addressing the need for keyword extraction from job descriptions in a practical context."
+            ],
+            "project_title": "Autojob",
+            "Project_Link": "https://github.com/AJeschor/autojob",
+            "start_date": "May 2023",
+            "end_date": "Oct 2023"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's degree in General Science, Minor in Biology",
+            "coursework": [
+                "BIO3153|CELL BIOLOGY",
+                "BIO3176|ANIMAL BEHAVIOUR",
+                "PHI2170|LOGIC 1",
+                "PHI2394|SCIENTIFIC THOUGHT AND SOCIAL VALUES",
+                "BIO3303|ANIMAL PHYSIOLOGY 1",
+                "EVS3120|ENVIRONMENTAL MICROBIOLOGY",
+                "GEG2109|CANADA AND ITS REGIONS",
+                "BI03302|ANIMAL PHYSIOLOGY 2",
+                "ANP1105|HUMAN ANATOMY AND PHYSIOLOGY I",
+                "BIO1130|INTRODUCTION TO ORGANISMAL BIOLOGY",
+                "CHM1311|PRINCIPLES OF CHEMISTRY",
+                "MAT1330|CALCULUS FOR THE LIFE SCIENCES 1",
+                "BIO1140|INTRODUCTION TO CELL BIOLOGY",
+                "CHM1321|ORGANIC CHEMISTRY 1",
+                "EVS1101|INTRODUCTION TO ENVIRONMENTAL SCIENCE",
+                "MAT133O|CALCULUS FOR THE LIFE SCIENCES 1",
+                "BIO2129|ECOLOGY",
+                "GEO1115|INTRODUCTION TO EARTH MATERIALS",
+                "MAT1332|CALCULUS FOR THE LIFE SCIENCES 2",
+                "BIO2133|GENETICS",
+                "BIO2135|ANIMAL FORM AND FUNCTION",
+                "EVS1101|INTRODUCTION TO ENVIRONMENTAL SCIENCE",
+                "GEO1111|INTRODUCTION TO EARTH SYSTEMS",
+                "ANP1106|HUMAN ANATOMY AND PHYSIOLOGY 2",
+                "HSS1100|MICROBIOLOGY AND IMMUNOLOGY",
+                "BIO2137|INTRODUCTION TO PLANT SCIENCE: BIODIVERSITY TO BIOTECHNOLOGY",
+                "BIO3124|GENERAL MICROBIOLOGY",
+                "BPS2120|INTRODUCTION TO BIOPHARMACEUTICAL SCIENCE",
+                "CHM2120|ORGANIC CHEMISTRY 2",
+                "ANP1107|HUMAN ANATOMY AND PHYSIOLOGY 3",
+                "BIO3334|INVERTEBRATE ZOOLOGY",
+                "BPS1101|DRUGS 101",
+                "PHI2172|PHILOSOPHY OF MIND",
+                "PSY1101|INTRODUCTION TO PSYCHOLOGY: FOUNDATIONS"
+            ],
+            "university_name": "University of Ottawa",
+            "university_location": "Ottawa, Canada",
+            "start_date": "Sept 2010",
+            "end_date": "May 2015"
+        },
+        {
+            "degree": "Honours Bachelor's degree in Biology",
+            "coursework": [
+                "BIOL 1105|Biology: Biological Methods",
+                "BIOL 3102|Biology: Mycology",
+                "CHEM 1001|Chemistry: General Chemistry 1",
+                "PHYS 1007|Physics: University Physics 1",
+                "STAT 2507|Statistics: Intro to Stat Modelling 1",
+                "BIOL 2301|Biology: Biotechnology 1",
+                "CHEM 1002|Chemistry: General Chemistry 2",
+                "BIOL 3605|Biology: Field Course 1: Environmental and Ecological Genomics",
+                "BIOL 2200|Biology: Cellular Biochemistry",
+                "BIOL 3609|Biology: Evolutionary Concepts",
+                "BIOL 3303|Biology: Experimental Microbiology",
+                "BIOL 4602|Biology: Evolutionary applications",
+                "BIOL 4104|Biology: Evolutionary Genetics",
+                "BIOL 4303|Biology: Advances in Microbiology"
+            ],
+            "university_name": "Carleton University",
+            "university_location": "Ottawa, Canada",
+            "start_date": "Jan 2017",
+            "end_date": "Oct 2023"
+        }
+    ]
+}

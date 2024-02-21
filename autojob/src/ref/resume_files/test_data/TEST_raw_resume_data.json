@@ -1,0 +1,76 @@
+{
+    "heading": {
+        "name": "FbSF",
+        "email": "SFBF",
+        "phone_number": "SFBSFb",
+        "linkedin": "SFB",
+        "github": "SFbSF",
+        "user_location": "bSFSF"
+    },
+    "skills": [
+        {
+            "id": 1,
+            "skill": "fbfbsfb",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 2,
+            "skill": "fbs",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 3,
+            "skill": "fb",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 4,
+            "skill": "fb",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 5,
+            "skill": "sfb",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 6,
+            "skill": "fsfb",
+            "keywords": "",
+            "score": ""
+        }
+    ],
+    "education": [],
+    "work_experience": [],
+    "projects/research": [
+        {
+            "Project Title": "SFBFSb",
+            "Project Link": "SFBBF",
+            "Role": "SFBSF",
+            "Start Date": "May 1951",
+            "End Date": "Mar 1952",
+            "Description": [
+                "SFBSF"
+            ],
+            "projects/research_description": []
+        },
+        {
+            "Project Title": "bnD",
+            "Project Link": "SFB",
+            "Role": "DNFD",
+            "Start Date": "May 1951",
+            "End Date": "Mar 1952",
+            "Description": [
+                "FBFbF",
+                "Fb",
+                "fbDFFFSB"
+            ],
+            "projects/research_description": []
+        }
+    ]
+}

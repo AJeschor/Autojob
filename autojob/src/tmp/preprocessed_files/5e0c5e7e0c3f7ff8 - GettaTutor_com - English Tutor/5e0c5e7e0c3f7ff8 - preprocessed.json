@@ -1,0 +1,38 @@
+{
+    "id": "5e0c5e7e0c3f7ff8",
+    "companyDescription": "",
+    "description": "For this role we are looking for candidates interested in tutoring any course at the high school level. This can include math, physics, chemistry, biology, English, French, social studies. The more versatile and capable you are the better.\nWe are always looking for patient, well-spoken, educated individuals to help mold the minds, study habits, and self esteem of the students they work with. As a company we tutor all subjects, at all levels from kindergarten to grade 12. We provide support to students who need help studying for exams, who may be falling behind in their classes, or those who just want to excel. Our focus is helping our students learn the subject matter they are struggling with.\nOur ideal candidate will have the following qualities and aspirations:\n\n Have an interest in tutoring students part-time while they might be employed full time elsewhere or attending university.\n Patient, understanding, easy going and amiable.\n The ability to teach or instruct others in a helpful and comprehensible manner.\n Enjoy helping others learn and take pride in watching them reach their goals.\n Ability to read, write, spell, and speak clearly in English.\n Previous tutoring experience would be an asset.\n Have an interest in becoming a teacher.\n\nThe successful applicant will be required to administer and execute their own schedule, and should be:\n\n A motivated, self-starter\n Organized\n Punctual\n Reliable\n Trustworthy\n Dependable\n\nRequired education:\n\n A university degree or currently working towards a degree at an accredited academic institution with a minimum of 2 years completed.\n\nWe offer great pay, lots of support, and the ability to work at your own pace, set your own schedule and work as much or as little as you like. If this interests you, and you are excited about the opportunity to share your knowledge and skills with others, please submit your resum\u00e9 via Indeed.\nJob Type: Part-time\nSalary: $20.00 per hour\nSchedule:\n\n Day shift\n\nWork Location: On the road",
+    "preprocessed_description": "For this role we are looking for candidates interested in tutoring any course at the high school level. This can include math, physics, chemistry, biology, English, French, social studies. The more versatile and capable you are the better. We are always looking for patient, well-spoken, educated individuals to help mold the minds, study habits, and self esteem of the students they work with. As a company we tutor all subjects, at all levels from kindergarten to grade 12. We provide support to students who need help studying for exams, who may be falling behind in their classes, or those who just want to excel. Our focus is helping our students learn the subject matter they are struggling with. Our ideal candidate will have the following qualities and aspirations: Have an interest in tutoring students part-time while they might be employed full time elsewhere or attending university. Patient, understanding, easy going and amiable. The ability to teach or instruct others in a helpful and comprehensible manner. Enjoy helping others learn and take pride in watching them reach their goals. Ability to read, write, spell, and speak clearly in English. Previous tutoring experience would be an asset. Have an interest in becoming a teacher. The successful applicant will be required to administer and execute their own schedule, and should be: A motivated, self-starter Organized Punctual Reliable Trustworthy Dependable Required education: A university degree or currently working towards a degree at an accredited academic institution with a minimum of 2 years completed. We offer great pay, lots of support, and the ability to work at your own pace, set your own schedule and work as much or as little as you like. If this interests you, and you are excited about the opportunity to share your knowledge and skills with others, please submit your resum\u00e9 via Indeed. Job Type: Part-time Salary: $20.00 per hour Schedule: Day shift Work Location: On the road",
+    "processed_description": "role interested tutor course high school level . include math physics chemistry biology English french social study . versatile capable . patient speak educate individual help mold mind study habit esteem student . company tutor subject level kindergarten grade . provide support student help study exam fall class excel . focus help student learn subject matter struggle . ideal follow quality aspiration interest tutor student employ attend university . patient understanding easy amiable . teach instruct helpful comprehensible manner . enjoy help learn pride watch reach goal . read write spell speak . previous tutoring asset . interest teacher . successful applicant require administer execute schedule motivated starter Organized Punctual Reliable Trustworthy dependable required education university degree currently degree accredit academic institution minimum complete . offer great pay lot support pace set schedule . interest excited share knowledge skill submit resume . type salary hour schedule shift location road",
+    "results_group": {
+        "extracted_noun_chunks": [
+            "interest excited share knowledge skill",
+            "patient",
+            "great pay lot support pace set schedule",
+            "exam fall class",
+            "university",
+            "focus help student",
+            "help",
+            "pride watch",
+            "ideal follow quality aspiration interest tutor student employ",
+            "accredit academic institution minimum complete",
+            "goal",
+            "resume",
+            "helpful comprehensible manner",
+            "previous tutoring asset",
+            "administer execute schedule motivated starter",
+            "Organized Punctual Reliable Trustworthy dependable required education university degree",
+            "support student help",
+            "write spell",
+            "interested tutor course",
+            "interest teacher",
+            "company tutor subject level kindergarten grade",
+            "subject matter struggle",
+            "successful applicant",
+            "type salary hour schedule shift location road",
+            "individual help mold mind study habit esteem student",
+            "math physics chemistry biology English french social study"
+        ],
+        "combined_lemmatized_tokens": "role interested tutor course high school level . include math physics chemistry biology English french social study . versatile capable . patient speak educate individual help mold mind study habit esteem student . company tutor subject level kindergarten grade . provide support student help study exam fall class excel . focus help student learn subject matter struggle . ideal follow quality aspiration interest tutor student employ attend university . patient understanding easy amiable . teach instruct helpful comprehensible manner . enjoy help learn pride watch reach goal . read write spell speak . previous tutoring asset . interest teacher . successful applicant require administer execute schedule motivated starter Organized Punctual Reliable Trustworthy dependable required education university degree currently degree accredit academic institution minimum complete . offer great pay lot support pace set schedule . interest excited share knowledge skill submit resume . type salary hour schedule shift location road"
+    }
+}

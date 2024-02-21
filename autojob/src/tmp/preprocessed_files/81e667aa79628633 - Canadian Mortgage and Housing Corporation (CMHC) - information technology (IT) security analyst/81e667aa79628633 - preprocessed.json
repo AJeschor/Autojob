@@ -1,0 +1,22 @@
+{
+    "id": "81e667aa79628633",
+    "companyDescription": "",
+    "description": "Education: Bachelor's degree \n  Experience: 1 to less than 7 months \n  Work setting\n   Government department and/or agency\n   Tasks\n   Assess physical and technical security risks to data, software and hardware\n   Develop policies, procedures and contingency plans to minimize the effects of security breaches\n   Conduct reviews to assess quality assurance practices, software products and information systems\n   Operate automatic or other testing equipment to ensure product quality\n   Execute and document results of software application tests and information and telecommunication systems tests\n   Student status\n   Full time enrollment\n   Computer and technology knowledge\n   MS Office\n   Personal suitability\n   Excellent oral communication\n   Excellent written communication\n   Judgement\n   Organized\n   Team player\n   Analytical\n   Workplace information\n   Remote work available\n   Other benefits\n   Free parking available\n   On-site amenities\n   Parking available \n  Work Term: Seasonal \n  Work Language: English \n  Hours: 37.5 hours per week",
+    "preprocessed_description": "Education: Bachelor's degree Experience: 1 to less than 7 months Work setting Government department and/or agency Tasks Assess physical and technical security risks to data, software and hardware Develop policies, procedures and contingency plans to minimize the effects of security breaches Conduct reviews to assess quality assurance practices, software products and information systems Operate automatic or other testing equipment to ensure product quality Execute and document results of software application tests and information and telecommunication systems tests Student status Full time enrollment Computer and technology knowledge MS Office Personal suitability Excellent oral communication Excellent written communication Judgement Organized Team player Analytical Workplace information Remote work available Other benefits Free parking available On-site amenities Parking available Work Term: Seasonal Work Language: English Hours: 37.5 hours per week",
+    "processed_description": "education Bachelor's degree month set Government department agency Tasks assess physical technical security risk data software hardware Develop policy procedure contingency plan minimize security breach conduct review assess quality assurance practice software product information system operate automatic testing equipment ensure product quality execute document result software application test information telecommunication system test student status enrollment computer technology knowledge oral communication excellent write communication Judgement Organized Team player Analytical Workplace information Remote benefit free parking site amenity parking term seasonal language week",
+    "results_group": {
+        "extracted_noun_chunks": [
+            "Analytical Workplace information Remote benefit free parking site amenity parking term",
+            "product quality",
+            "education Bachelor",
+            "security breach conduct review",
+            "quality assurance practice software product information system",
+            "communication Judgement Organized Team player",
+            "Government department agency Tasks",
+            "automatic testing equipment",
+            "physical technical security risk data software hardware Develop policy procedure contingency plan",
+            "document result software application test information telecommunication system test student status enrollment computer technology knowledge oral communication"
+        ],
+        "combined_lemmatized_tokens": "education Bachelor's degree month set Government department agency Tasks assess physical technical security risk data software hardware Develop policy procedure contingency plan minimize security breach conduct review assess quality assurance practice software product information system operate automatic testing equipment ensure product quality execute document result software application test information telecommunication system test student status enrollment computer technology knowledge oral communication excellent write communication Judgement Organized Team player Analytical Workplace information Remote benefit free parking site amenity parking term seasonal language week"
+    }
+}

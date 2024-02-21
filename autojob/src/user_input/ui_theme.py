@@ -1,4 +1,4 @@
-# File: autojob/src/user_input/ui_theme.py
+# File: src/user_input/ui_theme.py
 
 import tkinter as tk
 from tkinter import ttk

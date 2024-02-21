@@ -1,0 +1,26 @@
+{
+    "id": "785c048fafe0b14f",
+    "companyDescription": "",
+    "description": "Looking for a new role? We are hiring Chemical Technicians for our company in various locations throughout Ontario. \n \n  Weekly pay \n  $28/hour \n  Monday-Friday \n \n Requirements \n \n  A degree in Biology, Chemistry or similar. \n  A completed apprenticeship or on-the-job training. \n  Excellent knowledge of lab safety. \n  Knowledge of computer science and statistics . \n  Strong analytical, observational, and time management skills. \n  The ability to follow instructions and focus for extended periods. \n \n Responsibilities \n \n  Monitoring chemical processes \n  Testing the quality of products to meet standards and specifications \n  Setting up and maintaining laboratory instruments and equipment \n  Troubleshooting production problems \n  Preparing chemical solutions \n  Conducting chemical and physical experiments, tests, and analyses \n  Analyzing substances to determine their chemical composition \n  Compiling technical reports and interpreting results \n #IND\n  #ZR",
+    "preprocessed_description": "Looking for a new role? We are hiring Chemical Technicians for our company in various locations throughout Ontario. Weekly pay $28/hour Monday-Friday Requirements A degree in Biology, Chemistry or similar. A completed apprenticeship or on-the-job training. Excellent knowledge of lab safety. Knowledge of computer science and statistics . Strong analytical, observational, and time management skills. The ability to follow instructions and focus for extended periods. Responsibilities Monitoring chemical processes Testing the quality of products to meet standards and specifications Setting up and maintaining laboratory instruments and equipment Troubleshooting production problems Preparing chemical solutions Conducting chemical and physical experiments, tests, and analyses Analyzing substances to determine their chemical composition Compiling technical reports and interpreting results #IND #ZR",
+    "processed_description": "role hire company location . Weekly pay hour Monday Friday Requirements degree . complete apprenticeship training . excellent knowledge lab safety . knowledge computer science statistic . strong analytical observational management skill . follow instruction focus extended period . responsibility monitor chemical process test quality product meet standard specification set maintain laboratory instrument equipment troubleshooting production problem prepare chemical solution conduct chemical physical experiment test analyse analyze substance determine chemical composition compile technical report interpret result",
+    "results_group": {
+        "extracted_noun_chunks": [
+            "laboratory instrument equipment troubleshooting production problem",
+            "knowledge computer science statistic",
+            "standard specification set",
+            "responsibility monitor chemical process test quality product",
+            "substance",
+            "strong analytical observational management skill",
+            "company location",
+            "chemical solution",
+            "role",
+            "instruction focus extended period",
+            "Weekly pay hour Monday Friday Requirements degree",
+            "excellent knowledge lab safety",
+            "complete apprenticeship training",
+            "chemical composition"
+        ],
+        "combined_lemmatized_tokens": "role hire company location . Weekly pay hour Monday Friday Requirements degree . complete apprenticeship training . excellent knowledge lab safety . knowledge computer science statistic . strong analytical observational management skill . follow instruction focus extended period . responsibility monitor chemical process test quality product meet standard specification set maintain laboratory instrument equipment troubleshooting production problem prepare chemical solution conduct chemical physical experiment test analyse analyze substance determine chemical composition compile technical report interpret result"
+    }
+}

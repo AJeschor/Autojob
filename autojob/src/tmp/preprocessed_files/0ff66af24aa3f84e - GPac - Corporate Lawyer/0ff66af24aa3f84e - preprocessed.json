@@ -1,0 +1,36 @@
+{
+    "id": "0ff66af24aa3f84e",
+    "companyDescription": "",
+    "description": "Salary: Based on Experience\n  \n Reference: SCB-Cor$-O1(124)\n  \n  Inclusive, professional atmosphere with great work-life balance. Contact me to learn more at (605) 501 - 4866 or Sarah.Boatman@gogpac.com and click the link below to apply.\n  One of the top law firms in the country is looking for a commercial real estate lawyer. Strong team culture. GREAT reputation in the industry.\n  Commcercial Real Estate Lawyer\n  \n   2+ years of practice as a lawyer\n   CRE focused practice\n   Work with private lenders in providing financing\n   Draft complex commercial contracts\n   Work collaboratively with clients, counsel, banks, accountants, private lenders, and team members towards a common goal\n  \n  The successful candidate will have:\n  \n   Superb organization skills and strong work ethic\n   Strong legal, analytical and problem solving skills\n   Experience prioritizing multiple projects at any given time\n  \n  The candidate must be in good standing with the Law Society of Ontario.\n  If you're thinking of making a change and want to learn more, reach out to me at (605) 501-4866 or sarah.boatman@gogpac.com\n  All qualified applicants will receive consideration without regard to race, age, color, sex (including pregnancy), religion, national origin, disability, sexual orientation, gender identity, marital status, military status, genetic information, or any other status protected by applicable laws or regulations.   GPAC (Growing People and Companies) is an award-winning search firm specializing in placing quality professionals within multiple industries across the United States since 1990. We are extremely competitive, client-focused and realize that our value is in our ability to deliver the right solutions at the right time.",
+    "preprocessed_description": "Salary: Based on Experience Reference: SCB-Cor$-O1(124) Inclusive, professional atmosphere with great work-life balance. Contact me to learn more at (605) 501 - 4866 or Sarah.Boatman@gogpac.com and click the link below to apply. One of the top law firms in the country is looking for a commercial real estate lawyer. Strong team culture. GREAT reputation in the industry. Commcercial Real Estate Lawyer 2+ years of practice as a lawyer CRE focused practice Work with private lenders in providing financing Draft complex commercial contracts Work collaboratively with clients, counsel, banks, accountants, private lenders, and team members towards a common goal The successful candidate will have: Superb organization skills and strong work ethic Strong legal, analytical and problem solving skills Experience prioritizing multiple projects at any given time The candidate must be in good standing with the Law Society of Ontario. If you are thinking of making a change and want to learn more, reach out to me at (605) 501-4866 or sarah.boatman@gogpac.com All qualified applicants will receive consideration without regard to race, age, color, sex (including pregnancy), religion, national origin, disability, sexual orientation, gender identity, marital status, military status, genetic information, or any other status protected by applicable laws or regulations. GPAC (Growing People and Companies) is an award-winning search firm specializing in placing quality professionals within multiple industries across the United States since 1990. We are extremely competitive, client-focused and realize that our value is in our ability to deliver the right solutions at the right time.",
+    "processed_description": "salary base Reference SCB cor o1 inclusive professional atmosphere great life balance . contact learn click link apply . law firm country commercial real estate lawyer . strong team culture . great reputation industry . practice lawyer focus practice private lender provide financing Draft complex commercial contract collaboratively client counsel bank accountant private lender team common goal successful Superb organization skill strong ethic strong legal analytical problem solve skill prioritize multiple project good standing . change learn reach qualified applicant receive consideration regard race age color sex include pregnancy religion national origin sexual orientation gender identity marital status military status genetic information status protect applicable law regulation . award win search firm specialize place quality professional multiple industry . extremely competitive client focus realize deliver solution .",
+    "results_group": {
+        "extracted_noun_chunks": [
+            "change",
+            "strong ethic strong legal analytical problem",
+            "great life balance",
+            "consideration regard race age color sex",
+            "applicable law regulation",
+            "skill",
+            "extremely competitive client focus",
+            "practice",
+            "qualified applicant",
+            "multiple project",
+            "click link",
+            "law firm country commercial real estate lawyer",
+            "salary base Reference SCB cor o1 inclusive professional atmosphere",
+            "practice lawyer",
+            "solution",
+            "private lender",
+            "contact",
+            "strong team culture",
+            "pregnancy religion national origin sexual orientation gender identity marital status military status genetic information status",
+            "place quality professional multiple industry",
+            "financing Draft complex commercial contract collaboratively client counsel bank accountant private lender team common goal successful Superb organization skill",
+            "award win search firm",
+            "great reputation industry",
+            "good standing"
+        ],
+        "combined_lemmatized_tokens": "salary base Reference SCB cor o1 inclusive professional atmosphere great life balance . contact learn click link apply . law firm country commercial real estate lawyer . strong team culture . great reputation industry . practice lawyer focus practice private lender provide financing Draft complex commercial contract collaboratively client counsel bank accountant private lender team common goal successful Superb organization skill strong ethic strong legal analytical problem solve skill prioritize multiple project good standing . change learn reach qualified applicant receive consideration regard race age color sex include pregnancy religion national origin sexual orientation gender identity marital status military status genetic information status protect applicable law regulation . award win search firm specialize place quality professional multiple industry . extremely competitive client focus realize deliver solution ."
+    }
+}

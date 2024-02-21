@@ -1,0 +1,36 @@
+{
+    "id": "f6ed62d3ce904fe3",
+    "companyDescription": "",
+    "description": "Roles and Responsibilities:\n\n Create and maintain an inventory of all documentation required for the project\n Develop/produce Project and Operational documentation\n Provide project team oversight on key project deliverables\n Liaise with key Project stakeholders, SSC Service Lines and also external stakeholders and contract vendor to provide assessments, recommendations and strategies to Project Director and SSC senior management.\n Liaise with Project team members and Operational staff in the development of documentation\n Identify Project issues and gaps during the documentation process; raise and escalate the issues as required\n Plan, schedule and facilitate white-boarding sessions to develop operational processes (including participants from multiple organizational groups)\n Solicit, collect and consolidate feedback on documentation and other project artefacts\n Ensure that feedback is addressed, vetted and included in subsequent document revisionsConsolidate, edit and provide Quality Assurance for Project team reviews of contract deliverables\n Ensure that all documentation is prepared according to project schedules\n Secure document approvals from Project and Operations stakeholders and executives\n Manage the Change Request and Service Request processes for amendments to Project and Contractor documentation.\n\nQualifications:\n\n More than 15 years experience generating technical documentation\n More than 15 years experience in Telecommunications industry (Government of Canada and/or Private Sector)\n A university degree from an accredited institution\n\nJob Type: Contract\nSalary: $60,000.00-$100,000.00 per year\nSchedule:\n\n Monday to Friday\n\nWork Location: In person",
+    "preprocessed_description": "Roles and Responsibilities: Create and maintain an inventory of all documentation required for the project Develop/produce Project and Operational documentation Provide project team oversight on key project deliverables Liaise with key Project stakeholders, SSC Service Lines and also external stakeholders and contract vendor to provide assessments, recommendations and strategies to Project Director and SSC senior management. Liaise with Project team members and Operational staff in the development of documentation Identify Project issues and gaps during the documentation process; raise and escalate the issues as required Plan, schedule and facilitate white-boarding sessions to develop operational processes (including participants from multiple organizational groups) Solicit, collect and consolidate feedback on documentation and other project artefacts Ensure that feedback is addressed, vetted and included in subsequent document revisionsConsolidate, edit and provide Quality Assurance for Project team reviews of contract deliverables Ensure that all documentation is prepared according to project schedules Secure document approvals from Project and Operations stakeholders and executives Manage the Change Request and Service Request processes for amendments to Project and Contractor documentation. Qualifications: More than 15 years experience generating technical documentation More than 15 years experience in Telecommunications industry (Government of Canada and/or Private Sector) A university degree from an accredited institution Job Type: Contract Salary: $60,000.00-$100,000.00 per year Schedule: Monday to Friday Work Location: In person",
+    "processed_description": "role responsibility create maintain inventory documentation require project produce project team oversight key project deliverable liaise key Project stakeholder external stakeholder contract vendor provide assessment recommendation strategy Project Director SSC senior management . liaise Project team operational staff development documentation identify Project issue gap documentation process raise escalate issue schedule facilitate white boarding session develop operational process include participant multiple organizational group Solicit collect consolidate feedback documentation project artefact ensure feedback address vet include subsequent document revisionsconsolidate edit provide Project team review contract deliverable ensure documentation prepare accord project schedule secure document approval Project Operations stakeholder executive manage change request service request process amendment Project Contractor documentation . qualification generate technical documentation Telecommunications industry Private Sector university degree accredited institution Type contract salary schedule Location person",
+    "results_group": {
+        "extracted_noun_chunks": [
+            "accord project schedule",
+            "documentation",
+            "subsequent document revisionsconsolidate edit",
+            "escalate issue schedule",
+            "project",
+            "key Project stakeholder external stakeholder contract vendor",
+            "Solicit",
+            "participant multiple organizational group",
+            "key project",
+            "project team oversight",
+            "technical documentation Telecommunications industry Private Sector university degree accredited institution Type contract salary schedule Location person",
+            "Project team review contract",
+            "role responsibility",
+            "operational process",
+            "team operational staff development documentation",
+            "change request service request process amendment Project Contractor documentation",
+            "liaise Project",
+            "feedback address vet",
+            "inventory documentation",
+            "assessment recommendation strategy Project Director SSC senior management",
+            "document approval Project Operations stakeholder executive",
+            "white boarding session",
+            "qualification",
+            "consolidate feedback documentation project artefact"
+        ],
+        "combined_lemmatized_tokens": "role responsibility create maintain inventory documentation require project produce project team oversight key project deliverable liaise key Project stakeholder external stakeholder contract vendor provide assessment recommendation strategy Project Director SSC senior management . liaise Project team operational staff development documentation identify Project issue gap documentation process raise escalate issue schedule facilitate white boarding session develop operational process include participant multiple organizational group Solicit collect consolidate feedback documentation project artefact ensure feedback address vet include subsequent document revisionsconsolidate edit provide Project team review contract deliverable ensure documentation prepare accord project schedule secure document approval Project Operations stakeholder executive manage change request service request process amendment Project Contractor documentation . qualification generate technical documentation Telecommunications industry Private Sector university degree accredited institution Type contract salary schedule Location person"
+    }
+}

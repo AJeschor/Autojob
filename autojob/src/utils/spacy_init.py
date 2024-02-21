@@ -3,6 +3,7 @@
 import spacy
 import spacy.cli
 from spacy.language import Language
+from spacy_download import load_spacy
 
 class SpacyInitializer:
     """
@@ -44,7 +45,7 @@ class SpacyInitializer:
         """
         try:
             # Load SpaCy model unconditionally
-            nlp = spacy.load(self.model_name)
+            nlp = load_spacy(self.model_name)
 
             # Execute print statements only if they haven't been executed yet
             if not SpacyInitializer._print_statements_executed:

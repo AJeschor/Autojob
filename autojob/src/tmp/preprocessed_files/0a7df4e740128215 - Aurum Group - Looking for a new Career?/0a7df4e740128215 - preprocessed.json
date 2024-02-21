@@ -1,0 +1,34 @@
+{
+    "id": "0a7df4e740128215",
+    "companyDescription": "",
+    "description": "Looking for a new Career in the Dental Industry, we have what you are looking for.\nThe Aurum Group of companies is looking for someone interested in exploring a new career in our dental laboratory in Ottawa. We are seeking those who have great attention to detail, enjoy working with their hands and are interested in developing new skills and working on the manufacturing or administration side of the business.\nWe are a full-service dental company, with high quality dental facilities across Canada and U.S. We offer a competitive salary package, benefits, paid vacation, pension plan and an exciting career. We make Crown & Bridges, Veneers, Dentures, Ortho and Sleep appliances, and so much more.\nResponsibilities:\n\n Read prescriptions and evaluate for outcome.\n Learning dental anatomy.\n Strong understanding of written and spoken English\n Scanning and designing of dental cases\n Other tasks as requested\n\nSkills and qualifications:\n\n Attention to detail\n Strong hand-eye coordination\n Excellent work ethic\n Positive and friendly, with a team centered focus\n Excellent understanding of English and French would be an asset\n\nWhy you Should work here?\n\n Work-Life-Balance\n Team environment, which provides opportunity to collaborate with your colleges\n Continuing education; we believe in helping you succeed\n Loyalty in all relationships, both internal and external to the company. Committed to a long-term career path and sustained professional growth within the company\n Opportunity to grow within the company\n\nJob Type: Full-time\nBenefits:\n\n Dental care\n Extended health care\n Paid time off\n\nSchedule:\n\n Monday to Friday\n\nWork Location: In person",
+    "preprocessed_description": "Looking for a new Career in the Dental Industry, we have what you are looking for. The Aurum Group of companies is looking for someone interested in exploring a new career in our dental laboratory in Ottawa. We are seeking those who have great attention to detail, enjoy working with their hands and are interested in developing new skills and working on the manufacturing or administration side of the business. We are a full-service dental company, with high quality dental facilities across Canada and U.S. We offer a competitive salary package, benefits, paid vacation, pension plan and an exciting career. We make Crown & Bridges, Veneers, Dentures, Ortho and Sleep appliances, and so much more. Responsibilities: Read prescriptions and evaluate for outcome. Learning dental anatomy. Strong understanding of written and spoken English Scanning and designing of dental cases Other tasks as requested Skills and qualifications: Attention to detail Strong hand-eye coordination Excellent work ethic Positive and friendly, with a team centered focus Excellent understanding of English and French would be an asset Why you Should work here? Work-Life-Balance Team environment, which provides opportunity to collaborate with your colleges Continuing education; we believe in helping you succeed Loyalty in all relationships, both internal and external to the company. Committed to a long-term career path and sustained professional growth within the company Opportunity to grow within the company Job Type: Full-time Benefits: Dental care Extended health care Paid time off Schedule: Monday to Friday Work Location: In person",
+    "processed_description": "career . company interested explore career dental laboratory . seek great attention detail enjoy hand interested develop skill manufacturing administration business . service dental company high quality dental facility offer competitive salary package benefit pay vacation pension plan exciting career . Veneers Dentures Ortho sleep appliance . responsibility read prescription evaluate outcome . learn dental anatomy . strong understanding write speak designing dental case task request skill qualification attention detail strong hand eye coordination excellent ethic positive friendly team center focus excellent understanding asset life balance Team environment provide collaborate college continue education help succeed Loyalty relationship internal external company . commit long term career path sustain professional growth company grow company Type benefit dental care extended health care Paid Schedule Friday Location person",
+    "results_group": {
+        "extracted_noun_chunks": [
+            "college",
+            "prescription",
+            "Veneers Dentures Ortho sleep appliance",
+            "pay vacation pension plan exciting career",
+            "excellent ethic positive friendly team center",
+            "outcome",
+            "education help",
+            "competitive salary package benefit",
+            "great attention detail",
+            "professional growth company",
+            "responsibility",
+            "career",
+            "dental anatomy",
+            "Loyalty relationship internal external company",
+            "career dental laboratory",
+            "excellent understanding asset life balance Team environment",
+            "long term career path",
+            "strong understanding write",
+            "service dental company high quality dental facility",
+            "skill manufacturing administration business",
+            "dental case task request skill qualification attention detail strong hand eye coordination",
+            "company"
+        ],
+        "combined_lemmatized_tokens": "career . company interested explore career dental laboratory . seek great attention detail enjoy hand interested develop skill manufacturing administration business . service dental company high quality dental facility offer competitive salary package benefit pay vacation pension plan exciting career . Veneers Dentures Ortho sleep appliance . responsibility read prescription evaluate outcome . learn dental anatomy . strong understanding write speak designing dental case task request skill qualification attention detail strong hand eye coordination excellent ethic positive friendly team center focus excellent understanding asset life balance Team environment provide collaborate college continue education help succeed Loyalty relationship internal external company . commit long term career path sustain professional growth company grow company Type benefit dental care extended health care Paid Schedule Friday Location person"
+    }
+}

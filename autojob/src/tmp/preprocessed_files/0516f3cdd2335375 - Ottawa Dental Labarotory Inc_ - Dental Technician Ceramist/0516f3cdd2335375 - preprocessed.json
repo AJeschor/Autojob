@@ -1,0 +1,18 @@
+{
+    "id": "0516f3cdd2335375",
+    "companyDescription": null,
+    "description": "Ottawa Dental Laboratory Inc. is a family oriented full service lab, we are looking to hire a ceramist with extensive experience in anterior cases to join our growing lab. this position is for Canadian technicians only; citizens or residents, applications from over seas will not be considered. Pay will be based on experience and quality, relocation/signing bonus. Please send pictures of your cases if possible to info@ottawadentallaboratory.com\nJob Type: Full-time\nBenefits:\n\n Dental care\n Life insurance\n Paid time off\n Relocation assistance\n Vision care\n\nSchedule:\n\n Monday to Friday\n\nSupplemental pay types:\n\n Bonus pay\n\nWork Location: In person",
+    "preprocessed_description": "Ottawa Dental Laboratory Inc. is a family oriented full service lab, we are looking to hire a ceramist with extensive experience in anterior cases to join our growing lab. this position is for Canadian technicians only; citizens or residents, applications from over seas will not be considered. Pay will be based on experience and quality, relocation/signing bonus. Please send pictures of your cases if possible to info@ottawadentallaboratory.com Job Type: Full-time Benefits: Dental care Life insurance Paid time off Relocation assistance Vision care Schedule: Monday to Friday Supplemental pay types: Bonus pay Work Location: In person",
+    "processed_description": "family orient service lab hire ceramist extensive anterior case join grow lab . position canadian technician citizen resident application sea consider . pay base quality relocation signing bonus . send picture case type benefit dental care life insurance Paid relocation assistance vision care Schedule supplemental pay type bonus pay location person",
+    "results_group": {
+        "extracted_noun_chunks": [
+            "canadian technician citizen resident application sea",
+            "family orient service lab",
+            "ceramist extensive anterior case",
+            "grow lab",
+            "base quality relocation signing bonus",
+            "picture case type benefit dental care life insurance Paid relocation assistance vision care Schedule supplemental pay type bonus pay location person"
+        ],
+        "combined_lemmatized_tokens": "family orient service lab hire ceramist extensive anterior case join grow lab . position canadian technician citizen resident application sea consider . pay base quality relocation signing bonus . send picture case type benefit dental care life insurance Paid relocation assistance vision care Schedule supplemental pay type bonus pay location person"
+    }
+}

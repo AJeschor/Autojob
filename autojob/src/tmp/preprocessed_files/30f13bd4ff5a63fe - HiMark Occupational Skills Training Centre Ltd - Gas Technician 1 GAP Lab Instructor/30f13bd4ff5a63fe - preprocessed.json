@@ -1,0 +1,23 @@
+{
+    "id": "30f13bd4ff5a63fe",
+    "companyDescription": "",
+    "description": "We are looking for a talented Gas Technician 1 to become our instructor at the Ottawa campus. You will work in the lab with G1 students providing practical instruction. There is also an opportunity to provide G1 theory training.\nJob Requirements:1. Must have a valid G1 license for at least 5 years.2. Must have a good command of the English language; both written and verbal3. Teaching experience is not required but would be an asset.4. A passion for teaching is definitely welcome!Start Date: As soon as possible!\nJob Types: Seasonal, Permanent\nJob Types: Seasonal, Permanent\nSalary: $45.00-$55.00 per hour\nSchedule:\n\n Monday to Friday\n No weekends\n\nLicence/Certification:\n\n Gas Technician 1 License for at least 5 years (required)\n\nWork Location: In person",
+    "preprocessed_description": "We are looking for a talented Gas Technician 1 to become our instructor at the Ottawa campus. You will work in the lab with G1 students providing practical instruction. There is also an opportunity to provide G1 theory training. Job Requirements:1. Must have a valid G1 license for at least 5 years.2. Must have a good command of the English language; both written and verbal3. Teaching experience is not required but would be an asset.4. A passion for teaching is definitely welcome!Start Date: As soon as possible! Job Types: Seasonal, Permanent Job Types: Seasonal, Permanent Salary: $45.00-$55.00 per hour Schedule: Monday to Friday No weekends Licence/Certification: Gas Technician 1 License for at least 5 years (required) Work Location: In person",
+    "processed_description": "instructor campus . lab G1 student provide practical instruction . provide G1 theory training . Requirements . valid G1 license . good command english language write . teach require asset.4 . passion teaching definitely start type seasonal Permanent type seasonal permanent salary hour schedule Licence Certification gas technician license require location person",
+    "results_group": {
+        "extracted_noun_chunks": [
+            "valid G1 license",
+            "Requirements",
+            "instructor campus",
+            "location person",
+            "lab G1 student",
+            "type seasonal Permanent type seasonal permanent salary hour schedule Licence Certification gas technician license",
+            "practical instruction",
+            "asset.4",
+            "G1 theory training",
+            "passion teaching",
+            "good command english language"
+        ],
+        "combined_lemmatized_tokens": "instructor campus . lab G1 student provide practical instruction . provide G1 theory training . Requirements . valid G1 license . good command english language write . teach require asset.4 . passion teaching definitely start type seasonal Permanent type seasonal permanent salary hour schedule Licence Certification gas technician license require location person"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "76b495f5bc29ddf4",
+    "companyDescription": "",
+    "description": "Ottawa, ON \n                   $17 and up based on experience, for 40 hours per week. \n                   Permanent, Full time \n                  \n                 \n                \n               \n              \n             \n             \n              \n               \n                \n                 \n                  \n                   Day \n                   As soon as possible \n                   2 Vacancies \n                  \n                 \n                \n               \n              \n             \n            \n           \n          \n          \n           \n            \n             Job Requirements\n              Languages English\n              Education No degree, certificate or diploma\n              Experience Will train\n              Area of Specialization / Required Experience\n              Partial dentures; Orthodontic appliances; Gold dies and goldwork; Full dentures; Crowns and bridges; Chrome castings; Ceramic or porcelain application. Waxing-up; Polishing; Plastering; Packing; Assembly; Casting\n              Additional Details\n              Dental Laboratory assistant will prepare wax bite-blocks and impression trays; Prepare plaster models and moulds; Polish and buff dentures; Make orthodontic bands from metal and alloys; Finish metal framework of dentures; Cast gold or metal alloys for bridges and denture bases; Mould wax over dentures set-up; Pack plastic material in moulds to form full or partial dentures",
+    "preprocessed_description": "Ottawa, ON $17 and up based on experience, for 40 hours per week. Permanent, Full time Day As soon as possible 2 Vacancies Job Requirements Languages English Education No degree, certificate or diploma Experience Will train Area of Specialization / Required Experience Partial dentures; Orthodontic appliances; Gold dies and goldwork; Full dentures; Crowns and bridges; Chrome castings; Ceramic or porcelain application. Waxing-up; Polishing; Plastering; Packing; Assembly; Casting Additional Details Dental Laboratory assistant will prepare wax bite-blocks and impression trays; Prepare plaster models and moulds; Polish and buff dentures; Make orthodontic bands from metal and alloys; Finish metal framework of dentures; Cast gold or metal alloys for bridges and denture bases; Mould wax over dentures set-up; Pack plastic material in moulds to form full or partial dentures",
+    "processed_description": "base week . permanent Vacancies Requirements Languages English Education degree certificate diploma train Area Specialization Required partial denture orthodontic appliance gold die goldwork denture crown bridge Chrome casting ceramic porcelain application . wax Plastering Packing Assembly cast Additional Details Dental Laboratory assistant prepare wax bite block impression tray prepare plaster model mould Polish buff denture orthodontic band metal alloy metal framework denture cast gold metal alloy bridge denture basis mould wax denture set pack plastic material mould form partial denture",
+    "results_group": {
+        "extracted_noun_chunks": [
+            "Additional Details Dental Laboratory assistant",
+            "partial denture",
+            "Polish buff denture orthodontic band metal alloy metal framework denture",
+            "ceramic porcelain application",
+            "plaster model",
+            "base week",
+            "wax Plastering Packing Assembly",
+            "denture set pack plastic material",
+            "wax bite block impression tray",
+            "gold metal alloy bridge denture basis",
+            "permanent Vacancies Requirements Languages English Education degree certificate diploma train Area Specialization Required partial denture orthodontic appliance gold die goldwork denture crown bridge Chrome"
+        ],
+        "combined_lemmatized_tokens": "base week . permanent Vacancies Requirements Languages English Education degree certificate diploma train Area Specialization Required partial denture orthodontic appliance gold die goldwork denture crown bridge Chrome casting ceramic porcelain application . wax Plastering Packing Assembly cast Additional Details Dental Laboratory assistant prepare wax bite block impression tray prepare plaster model mould Polish buff denture orthodontic band metal alloy metal framework denture cast gold metal alloy bridge denture basis mould wax denture set pack plastic material mould form partial denture"
+    }
+}

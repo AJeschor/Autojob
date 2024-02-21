@@ -1,0 +1,742 @@
+{
+    "heading": {
+        "name": "Alex Jeschor",
+        "email": "alexjeschor@gmail.com",
+        "phone_number": "613-322-5302",
+        "linkedin": "https://www.linkedin.com/in/alex-jeschor-5327901b2/",
+        "github": "https://github.com/AJeschor",
+        "user_location": "Ottawa, Canada"
+    },
+    "skills": [
+        {
+            "id": 1,
+            "skill": "expertise_in_biology,_genetics,_molecular_biology,_genomic_data_analysis,_and_bioinformatics",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 2,
+            "skill": "proficient_in_cell_biology,_microbiology,_pharmacology,_plant_ecology,_conservation_biology,_and_marine_conservation",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 3,
+            "skill": "strong_background_in_biotechnology,_bioinformatics,_ecology_research,_and_environmental_science",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 4,
+            "skill": "experienced_in_bioprocessing,_quality_control,_agricultural_research,_and_environmental_science",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 5,
+            "skill": "experienced_in_microbiology,_pharmacology_research,_and_drug_screening_assays,_with_a_focus_on_laboratory_safety_and_quality_control",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 6,
+            "skill": "knowledgeable_in_research_ethics,_human_and_animal_subjects'_research,_and_effective_scientific_communication_through_presentations_and_publications",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 7,
+            "skill": "adept_in_laboratory_skills_such_as_pipetting,_weighing_substances,_sterilizing_equipment,_and_conducting_various_biochemical_and_molecular_biology_experiments",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 8,
+            "skill": "proficient_in_chemical_analysis_techniques,_including_chromatography,_titration,_and_spectrofluorometry,_for_substance_separation_and_identification",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 9,
+            "skill": "skilled_in_programming_languages_(linux,_r,_python)_and_bioinformatics_tools_for_genomic_analysis_and_data_interpretation",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 10,
+            "skill": "specialization_in_ecology_research,_including_microbial_ecology_and_ecosystem_analysis",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 11,
+            "skill": "knowledgeable_in_wildlife_conservation,_invasive_species_management,_and_marine_ecology",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 12,
+            "skill": "skilled_in_genomic_data_analysis,_phylogenetic_analysis,_and_dna_manipulation",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 13,
+            "skill": "expertise_in_genome_sequencing_and_bioinformatics_software",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 14,
+            "skill": "strong_data_interpretation_and_statistical_analysis_abilities",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 15,
+            "skill": "competent_in_communicating_findings_through_models,_charts,_and_graphs",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 16,
+            "skill": "proficiency_in_bioinformatics,_programming_languages,_and_database_management_for_data_analysis_and_research",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 17,
+            "skill": "competent_in_cell_and_molecular_biology_techniques,_including_cell_culture,_dna_manipulation,_and_genome_sequencing",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 18,
+            "skill": "proficient_in_laboratory_techniques,_including_pipetting,_sterilization,_sample_preparation,_and_microscopy_techniques_(light_microscopes,_confocal_microscopy)",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 19,
+            "skill": "experienced_in_operating_laboratory_instruments_such_as_microscopes,_spectrophotometers,_centrifuges,_and_electronic_equipment_(centrifuges,_microplate_readers,_ph_meters)",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 20,
+            "skill": "skilled_in_various_chromatography_methods_(paper,_thin-layer,_ion_exchange,_gas-liquid,_hplc)_for_substance_separation_and_identification",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 21,
+            "skill": "competent_in_gel_electrophoresis_(immune,_acrylamide_gel,_paper)_for_dna_and_protein_analysis,_as_well_as_pcr_(polymerase_chain_reaction)_techniques_for_dna_amplification_and_genetic_analysis",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 22,
+            "skill": "adept_in_aseptic_working_techniques_for_maintaining_sterile_conditions_in_the_lab,_including_uv-c_lightbulb_sterilization",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 23,
+            "skill": "proficient_in_flow_cytometry_for_analyzing_and_sorting_cells,_and_familiar_with_fluorescence_in_situ_hybridization_(fish)_for_nucleic_acid_detection",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 24,
+            "skill": "experienced_in_electron_microscopy_techniques_(fix,_embed,_stain,_section)_for_ultrastructural_analysis,_and_in_fractionation_techniques_for_cell_and_organelle_isolation",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 25,
+            "skill": "skilled_in_liquid-liquid_extraction,_distillation,_filtration_methods,_and_microburette_for_precise_liquid_handling",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 26,
+            "skill": "adept_in_handling_and_maintaining_laboratory_instruments_and_specialized_equipment,_as_well_as_setting_up_and_operating_blood_gas_analyzers_and_autoanalyzer_for_clinical_sample_analysis",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 27,
+            "skill": "knowledgeable_in_safety_protocols,_biosafety,_and_hazardous_waste_disposal",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 28,
+            "skill": "adherence_to_safety_data_sheets_(sds)_and_chemical_safety_procedures",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 29,
+            "skill": "meticulous_and_sterile_lab_work_to_ensure_data_integrity_and_accuracy",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 30,
+            "skill": "precise_measurement_and_accurate_data_recording_using_precision_balance_and_volumetric_glassware",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 31,
+            "skill": "efficiently_manage_resources_and_maintain_inventories_of_laboratory_supplies",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 32,
+            "skill": "practice_sterile_techniques_to_prevent_contamination_in_experiments,_and_regularly_wash_and_clean_glassware_and_laboratory_equipment_for_safe_and_effective_use",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 33,
+            "skill": "troubleshoot_technical_issues_related_to_equipment_and_experiments",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 34,
+            "skill": "demonstrate_adaptability_and_openness_to_feedback_for_continuous_improvement,_while_effectively_handling_multiple_responsibilities_and_meeting_deadlines",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 35,
+            "skill": "proactive_and_self-motivated_researcher_with_strong_problem-solving_abilities",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 36,
+            "skill": "capable_of_planning_and_managing_multiple_research_projects",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 37,
+            "skill": "skilled_in_data_collection,_analysis,_and_interpretation",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 38,
+            "skill": "experienced_in_project_planning,_goal_setting,_and_progress_monitoring",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 39,
+            "skill": "proficient_in_collecting,_analyzing,_and_interpreting_data,_as_well_as_applying_critical_thinking_and_innovative_problem-solving_skills",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 40,
+            "skill": "competent_in_data_management,_statistical_analysis,_and_project_management,_with_strong_organizational_and_problem-solving_abilities",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 41,
+            "skill": "proficient_in_data_processing,_statistical_analysis,_and_programming_(python,_r)",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 42,
+            "skill": "familiarity_with_high-performance_computing_resources_and_server_infrastructure",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 43,
+            "skill": "strong_knowledge_of_database_management_and_scientific_software",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 44,
+            "skill": "competent_in_data_visualization_techniques_and_scientific_writing",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 45,
+            "skill": "skilled_in_programming_languages_(linux,_r,_python)_and_bioinformatics_tools_for_genomic_analysis_and_data_interpretation",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 46,
+            "skill": "proficient_in_data_processing_and_cleaning_techniques,_adept_at_parsing,_cleaning,_and_formatting_data_from_diverse_sources,_including_json_files,_to_prepare_it_for_analysis",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 47,
+            "skill": "demonstrates_a_comprehensive_grasp_of_natural_language_processing_(nlp)_principles_and_tools,_effectively_utilizing_libraries_such_as_spacy_and_nltk_for_text_data_tokenization,_preprocessing,_and_information_extraction",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 48,
+            "skill": "skilled_in_various_keyword_extraction_methods,_including_rake,_positionrank,_singlerank,_multipartiterank,_topicrank,_and_keybert",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 49,
+            "skill": "possesses_familiarity_with_data_science_and_machine_learning,_as_evidenced_by_the_use_of_keybert,_a_machine_learning-based_keyword_extraction_tool,_showcasing_the_ability_to_implement_and_integrate_machine_learning_models_for_text_analysis",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 50,
+            "skill": "proficiency_in_python_with_hands-on_experience_in_software_development,_debugging,_and_automation_script_creation",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 51,
+            "skill": "demonstrates_expertise_in_file_handling_and_directory_management,_efficiently_manipulating_and_organizing_files,_critical_for_data_preprocessing_and_output_generation",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 52,
+            "skill": "exhibits_strong_problem-solving_skills,_addressing_challenges_like_handling_accented_characters,_text_cleaning,_and_managing_exceptions",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 53,
+            "skill": "proficient_in_working_with_various_data_formats,_including_json,_adept_at_loading,_processing,_and_saving_data_in_diverse_formats_to_facilitate_data_analysis_and_reporting",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 54,
+            "skill": "the_project_highlights_a_meticulous_approach_to_data_cleaning_and_analysis,_reflecting_a_commitment_to_detail-oriented_work,_ensuring_precision_and_reliability_in_results",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 55,
+            "skill": "displays_a_proactive_attitude_toward_learning_and_adaptability,_demonstrated_by_the_dynamic_download_and_utilization_of_essential_libraries_like_spacy",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 56,
+            "skill": "shows_project_management_capabilities_through_the_structuring_of_code_into_modular_functions_and_efficient_organization_of_data_into_directories,_optimizing_project_workflow",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 57,
+            "skill": "proficient_in_both_windows_and_unix_operating_systems,_with_a_strong_understanding_of_their_functionalities,_alongside_expertise_in_basic_linux_commands_to_enhance_efficiency_in_software_development_and_scripting_tasks",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 58,
+            "skill": "knowledgeable_in_quality_control_and_assurance,_including_sops_and_iso_standards",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 59,
+            "skill": "skilled_in_laboratory_safety_protocols_and_personal_protective_equipment",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 60,
+            "skill": "proficient_in_maintaining_accurate_records_and_documentation",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 61,
+            "skill": "experienced_in_ethical_research_practices_and_research_ethics",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 62,
+            "skill": "approve_all_standard_operating_procedures_(sops)_prior_to_their_implementation",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 63,
+            "skill": "sign_off_on_all_operational_forms",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 64,
+            "skill": "keep_and_maintain_an_auditable_batch_record",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 65,
+            "skill": "maintain_retention_samples_from_each_batch/lot_sold",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 66,
+            "skill": "approve_and_release_batches_for_sale_to_clients",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 67,
+            "skill": "investigate_client_complaints_related_to_product_quality",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 68,
+            "skill": "initiate_corrective_action_and_remediation_protocols_(carps)_when_investigating_quality_issues",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 69,
+            "skill": "review_third-party_lab_results",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 70,
+            "skill": "approve_the_use_of_products_that_may_come_into_contact_with_the_product",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 71,
+            "skill": "maintain_change_control_program",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 72,
+            "skill": "develop_and_maintain_an_environmental_monitoring_program",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 73,
+            "skill": "understand_and_help_implement_health_canada_&_other_government_regulations",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 74,
+            "skill": "write_standard_operating_procedures_(sops)",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 75,
+            "skill": "complete_monthly,_quarterly,_and_yearly_inventory_reports",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 76,
+            "skill": "participate_in_health_canada_audits",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 77,
+            "skill": "know_hc_deadlines_for_the_above_notices_and_security_clearance_documents",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 78,
+            "skill": "maintain_complete_records_that_are_auditable",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 79,
+            "skill": "help_develop_sops_and_documents_related_to_regulatory_affairs",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 80,
+            "skill": "effective_communicator_with_the_ability_to_convey_information_and_ideas",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 81,
+            "skill": "experienced_in_presenting_findings_to_diverse_audiences",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 82,
+            "skill": "skilled_in_collaborating_with_team_members_and_stakeholders",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 83,
+            "skill": "strong_interpersonal_skills_and_active_listening_abilities",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 84,
+            "skill": "developing_and_maintaining_effective_working_relationships_with_various_groups_and_individuals",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 85,
+            "skill": "preparing_technical_and_research_reports_and_communicating_results_to_diverse_audiences",
+            "keywords": "",
+            "score": ""
+        },
+        {
+            "id": 86,
+            "skill": "explaining_the_meaning_and_utility_of_information",
+            "keywords": "",
+            "score": ""
+        }
+    ],
+    "education": [
+        {
+            "University Name": "University of Ottawa",
+            "University Location": "Ottawa, Canada",
+            "Degree": "Bachelor's Degree in General Science, Minor in Biology",
+            "Start Date": "Sept 2010",
+            "End Date": "May 2015",
+            "Coursework": [
+                "BIO3153|CELL BIOLOGY",
+                "BIO3176|ANIMAL BEHAVIOUR",
+                "PHI2170|LOGIC 1",
+                "PHI2394|SCIENTIFIC THOUGHT AND SOCIAL VALUES",
+                "BIO3303|ANIMAL PHYSIOLOGY 1",
+                "EVS3120|ENVIRONMENTAL MICROBIOLOGY",
+                "GEG2109|CANADA AND ITS REGIONS",
+                "BI03302|ANIMAL PHYSIOLOGY 2",
+                "ANP1105|HUMAN ANATOMY AND PHYSIOLOGY I",
+                "BIO1130|INTRODUCTION TO ORGANISMAL BIOLOGY",
+                "CHM1311|PRINCIPLES OF CHEMISTRY",
+                "MAT1330|CALCULUS FOR THE LIFE SCIENCES 1",
+                "BIO1140|INTRODUCTION TO CELL BIOLOGY",
+                "CHM1321|ORGANIC CHEMISTRY 1",
+                "EVS1101|INTRODUCTION TO ENVIRONMENTAL SCIENCE",
+                "MAT133O|CALCULUS FOR THE LIFE SCIENCES 1",
+                "BIO2129|ECOLOGY",
+                "GEO1115|INTRODUCTION TO EARTH MATERIALS",
+                "MAT1332|CALCULUS FOR THE LIFE SCIENCES 2",
+                "BIO2133|GENETICS",
+                "BIO2135|ANIMAL FORM AND FUNCTION",
+                "EVS1101|INTRODUCTION TO ENVIRONMENTAL SCIENCE",
+                "GEO1111|INTRODUCTION TO EARTH SYSTEMS",
+                "ANP1106|HUMAN ANATOMY AND PHYSIOLOGY 2",
+                "HSS1100|MICROBIOLOGY AND IMMUNOLOGY",
+                "BIO2137|INTRODUCTION TO PLANT SCIENCE: BIODIVERSITY TO BIOTECHNOLOGY",
+                "BIO3124|GENERAL MICROBIOLOGY",
+                "BPS2120|INTRODUCTION TO BIOPHARMACEUTICAL SCIENCE",
+                "CHM2120|ORGANIC CHEMISTRY 2",
+                "ANP1107|HUMAN ANATOMY AND PHYSIOLOGY 3",
+                "BIO3334|INVERTEBRATE ZOOLOGY",
+                "BPS1101|DRUGS 101",
+                "PHI2172|PHILOSOPHY OF MIND",
+                "PSY1101|INTRODUCTION TO PSYCHOLOGY: FOUNDATIONS"
+            ]
+        },
+        {
+            "University Name": "Carleton University",
+            "University Location": "Ottawa, Canada",
+            "Degree": "Honours Bachelor's Degree in Biology",
+            "Start Date": "Jan 2017",
+            "End Date": "Feb 2024",
+            "Coursework": [
+                "BIOL 1105|Biology: Biological Methods",
+                "BIOL 3102|Biology: Mycology",
+                "CHEM 1001|Chemistry: General Chemistry 1",
+                "PHYS 1007|Physics: University Physics 1",
+                "STAT 2507|Statistics: Intro to Stat Modelling 1",
+                "BIOL 2301|Biology: Biotechnology 1",
+                "CHEM 1002|Chemistry: General Chemistry 2",
+                "BIOL 3605|Biology: Field Course 1: Environmental and Ecological Genomics",
+                "BIOL 2200|Biology: Cellular Biochemistry",
+                "BIOL 3609|Biology: Evolutionary Concepts",
+                "BIOL 3303|Biology: Experimental Microbiology",
+                "BIOL 4602|Biology: Evolutionary applications",
+                "BIOL 4104|Biology: Evolutionary Genetics",
+                "BIOL 4303|Biology: Advances in Microbiology"
+            ]
+        }
+    ],
+    "work_experience": [
+        {
+            "Company Name": "KJND Contracting",
+            "Company Location": "Ottawa, Canada",
+            "Role": "Project Specialist",
+            "Start Date": "Jan 2022",
+            "End Date": "Oct 2023",
+            "Description": [
+                "Implemented streamlined processes to monitor and report the budget efficiently contributing to the overall excellence of KJND Contracting projects",
+                "Collaborate with clients to acquire blueprints, using them to meticulously curate comprehensive material lists",
+                "Skillfully manage change orders, ensuring precise adjustments to the budget",
+                "Coordinate the allocation of new work orders, maintaining effective communication with the sole contractor and relevant parties",
+                "Take charge of inventory management for non-project-specific consumables, encompassing costs of items like tools that contribute to the overall cost of goods sold",
+                "Receive weekly payroll data from employees and meticulously validate its accuracy",
+                "Collaborate with team leads to ensure the correctness of payroll information",
+                "Additionally, ensure the punctual and precise submission of required deductions to government authorities in accordance with regulations",
+                "Conduct regular audits and thorough analyses to ensure unwavering adherence to government regulations and compliance standards within the construction industry",
+                "Stay updated on relevant laws and regulations to provide valuable guidance in mitigating potential risks",
+                "Engage with cross-functional teams to implement necessary changes, effectively safeguarding KJND Contracting's commitment to compliance",
+                "Proficiency in AI integration to process audio recordings for report generation",
+                "Strong software development skills for the AI-driven reporting platform",
+                "Data analysis expertise for working with large datasets and audio data insights",
+                "In-depth knowledge of roofing and building envelope domain",
+                "Expertise in report generation and data transformation",
+                "AI technology implementation and optimization skills",
+                "Project management to oversee multifaceted system development",
+                "Communication and collaboration for effective team coordination",
+                "Quality assurance to ensure comprehensive and accurate reporting",
+                "Problem-solving to address challenges in report generation and AI implementation"
+            ],
+            "work_experience_description": []
+        },
+        {
+            "Company Name": "Kolab Project",
+            "Company Location": "Carleton Place, Canada",
+            "Role": "Post Production Technician",
+            "Start Date": "May 2021",
+            "End Date": "Jun 2021",
+            "Description": [
+                "Improved efficiencies and productivity by learning various skills, including production room sanitation, Good Production Practices (GPP), and use of industry-related equipment",
+                "Enhanced operational efficiency through the mastery of production room sanitation, equipment setup (calibration, cleaning, etc.), and utilization of industry-specific machinery",
+                "Maintained meticulous records, promptly identifying and resolving discrepancies in production documentation",
+                "Executed end-to-end manufacturing, packaging, and batch sampling processes with a relentless commitment to product excellence",
+                "Championed strict adherence to clean-room and sanitization protocols, ensuring unwavering compliance with Good Production Practice (GPP) standards",
+                "Conducted pre-roll manufacturing processes with precision and expertise",
+                "Managed packaging runs with acute attention to detail and quality standards",
+                "Contributed to seamless order fulfillment, meeting customer demands efficiently",
+                "Conducted batch sampling for external testing, upholding stringent quality control practices",
+                "Demonstrated unwavering adherence to the company's Standard Operating Procedures (SOPs) to maintain product consistency and quality",
+                "Collaborated with the Operations and Production team to uphold organization and sanitation standards within the Kolab facility",
+                "Exhaustively documented all production and sanitation activities, ensuring comprehensive record-keeping and compliance"
+            ],
+            "work_experience_description": []
+        },
+        {
+            "Company Name": "Kolab Project",
+            "Company Location": "Carleton Place, Canada",
+            "Role": "Quality Assurance Associate",
+            "Start Date": "Jul 2021",
+            "End Date": "Nov 2021",
+            "Description": [
+                "Led the conversion of the facility to a 24/7 operation by scheduling shifts and updating training",
+                "Developed and recommended system, process, and procedure improvements resulting in productivity increases and cost reductions",
+                "Reviewed, analyzed, and illustrated data to facilitate decision-making",
+                "Provided consultation on QC sampling procedures",
+                "Collaborated with various departments to ensure compliance with regulations",
+                "Completed paperwork (production records), recognized discrepancies, and promptly addressed them for resolution",
+                "Performed all manufacturing, packaging, and batch sampling processes to ensure high quality",
+                "Knowledgeable in quality control and assurance, including SOPs and ISO standards",
+                "Maintained stringent adherence to clean-room and sanitization protocols, including the proper use of specialized attire and personal protective equipment, to ensure compliance with Good Manufacturing Practice (GMP) and Good Production Practice (GPP) standards for a sterile manufacturing environment",
+                "Proficient in maintaining accurate records and documentation",
+                "Approved all Standard Operating Procedures (SOPs) prior to their implementation",
+                "Reviewed operational forms before sending them to be signed off",
+                "Kept and maintained an auditable batch record and maintained retention samples from each batch/lot sold",
+                "Investigated client complaints related to product quality",
+                "Initiated corrective and preventive action (CAPAs) when investigating quality issues",
+                "Researched and approved the use of products that may come into contact with the product",
+                "Developed and implemented an automated system for processing third-party lab results, which included receiving Certificates of Analysis, extracting and parsing data, updating a Sharepoint database, and generating cover letters, in-house Certificates of Analysis, and compliance documentation",
+                "Ensured compliance with environmental regulations by researching and implementing proper disposal procedures for the chemicals in use",
+                "Understood and helped implement Health Canada & other government regulations",
+                "Participated in Health Canada audits and helped ensure the facility was compliant with them",
+                "Helped develop SOPs and documents related to regulatory affairs prior to their implementation"
+            ],
+            "work_experience_description": []
+        },
+        {
+            "Company Name": "National Research Council Canada",
+            "Company Location": "Ottawa, Canada",
+            "Role": "Proposal Evaluator (Volunteer)",
+            "Start Date": "Nov 2020",
+            "End Date": "Dec 2020",
+            "Description": [
+                "Validated project proposal data and audited information for accuracy and integrity",
+                "Completed work on the COVID-19: Recycling technologies for disposable (single-use) Personal Protective Equipment (PPE) used in the healthcare sector",
+                "Utilized scientific research papers, official industry statistics, existing patents, and standards for analysis",
+                "Assessed proposals sent to Innovative Solutions Canada used to allocate funding for two challenges related to COVID-19 personal protective equipment in November 2020",
+                "Evaluated proposals sent by various businesses for the creation of compostable disposable surgical masks and compostable disposable respirators, including recycling technologies for disposable personal protective equipment utilized in the Canadian healthcare system"
+            ],
+            "work_experience_description": []
+        }
+    ],
+    "projects/research": [
+        {
+            "Project Title": "Grad Thesis Contribution",
+            "Project Link": "https://qspace.library.queensu.ca/items/bb7b7287-cb7e-4143-bc46-d78262466b30",
+            "Role": "Research Assistant",
+            "Start Date": "Jun 2018",
+            "End Date": "Jun 2018",
+            "Description": [
+                "Assisted in data collection for a graduate thesis on the diversity and function of the soil microbiome in a North American forest in response to Alliaria petiolata (garlic mustard) invasion",
+                "Conducted fieldwork to collect soil samples and measure root health of native plants co-occurring with A. petiolata",
+                "Conducted insect and botanical sampling to assess the biodiversity of the forest ecosystem",
+                "Identified and cataloged insect species and plant specimens using taxonomic keys and field guides",
+                "Processed soil samples for molecular analysis using high throughput sequencing of genomic DNA encoding for the ITS and 16S region of ribosomal RNA",
+                "Contributed to the understanding of the impact of plant invasion on nutrient cycling, insect populations, and other ecosystem services"
+            ],
+            "projects/research_description": []
+        },
+        {
+            "Project Title": "Autojob",
+            "Project Link": "https://github.com/AJeschor/autojob",
+            "Role": "Developer",
+            "Start Date": "May 2023",
+            "End Date": "Feb 2024",
+            "Description": [
+                "Proficiency in Named Entity Recognition (NER) techniques for automatic summarization of resumes",
+                "Expertise in semantic analysis and text matching, offering a versatile tool for assessing textual data similarity and relationships",
+                "Extensive knowledge of natural language processing techniques and word embeddings models to enable text content comparison",
+                "Application of NLP techniques for document retrieval, content recommendation, and semantic understanding of text",
+                "Implementation of keyword matching strategies to calculate KM scores for each keyword in user resumes and job descriptions, allowing for an overall rating score determination",
+                "Proficient in generating resumes from LaTeX templates and creating cover letters or objective statements that highlight user qualifications, including matching keywords and skills from job descriptions",
+                "Proficient in Python programming for developing desktop applications and text processing systems",
+                "Strong GUI development skills using the Tkinter library to create user-friendly interfaces",
+                "Demonstrated expertise in designing and structuring code into modular components for better organization and maintenance",
+                "Skilled in collecting, storing, and organizing data efficiently, with experience in managing lists and directories",
+                "Proficient in UI design, maintaining a visually appealing and consistent user interface",
+                "Experienced in file handling, including the compilation of user data into JSON files",
+                "Competent in text processing and data cleaning, particularly for JSON files",
+                "Knowledgeable in natural language processing (NLP) techniques and keyword extraction algorithms",
+                "Familiar with various keyword extraction methods, including YAKE, RAKE, PositionRank, SingleRank, MultipartiteRank, TopicRank, KeyBERT, KPMiner, and TF-IDF",
+                "Capable of managing and organizing data in multiple directories for analysis and storage",
+                "Strong problem-solving skills, addressing the need for keyword extraction from job descriptions in a practical context"
+            ],
+            "projects/research_description": []
+        }
+    ]
+}

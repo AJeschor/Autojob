@@ -17,6 +17,7 @@ sys.path.append(project_directory)
 from autojob.src.preprocessing.acronyms import acronym_list
 from autojob.src.preprocessing.contractions_dict import all_contractions
 from autojob.src.preprocessing.custom_stopwords import custom_stop_word_list
+from autojob.src.keywords.keyword_utils import merge_similar_strings, merge_keyterms
 from autojob.src.preprocessing.preprocessing_utils import (
     extract_spacy_info,
     extract_string_info,
@@ -166,7 +167,7 @@ def create_destination_folder_and_copy(src_file_path, dest_folder_path, post_id,
     shutil.copy(src_file_path, dest_original_file_path)
 
 # Function to save preprocessed data to a file
-def save_preprocessed_data(dest_folder_path, post_id, data, preprocessed_description, processed_text, results_group, textacy_results, merged_keywords):
+def save_preprocessed_data(dest_folder_path, post_id, data, preprocessed_description, processed_text, results_group):
     """
     Save preprocessed data to a file.
 
@@ -177,11 +178,10 @@ def save_preprocessed_data(dest_folder_path, post_id, data, preprocessed_descrip
         preprocessed_description (str): Preprocessed job description.
         processed_text (str): Processed job description.
         results_group (dict): Extracted results group.
-        textacy_results (dict): Extracted textacy results.
-        merged_keywords (dict): Merged textacy results.
     """
     dest_preprocessed_file_path = os.path.join(dest_folder_path, f"{post_id} - preprocessed.json")
 
+    # Remove usage of merged_keywords
     data.pop('company', None)
     data.pop('positionName', None)
     data.pop('jobType', None)
@@ -194,11 +194,10 @@ def save_preprocessed_data(dest_folder_path, post_id, data, preprocessed_descrip
     data['preprocessed_description'] = preprocessed_description
     data['processed_description'] = processed_text
     data['results_group'] = results_group
-    data['textacy_results'] = textacy_results
-    data['merged_keywords'] = textacy_results
 
     with open(dest_preprocessed_file_path, 'w') as f:
         json.dump(data, f, indent=4, default=convert_to_serializable)
+
 
 # Function to save job information to a separate file
 def save_job_information(dest_folder_path, post_id, data, original_company, original_position_name, original_job_type, original_location, original_salary, original_posting_date, original_url, original_external_apply_link, job_info_group):
@@ -238,4 +237,26 @@ def save_job_information(dest_folder_path, post_id, data, original_company, orig
 
     with open(dest_job_info_file_path, 'w') as f:
         json.dump(job_info_data, f, indent=4, default=convert_to_serializable)
+
+def save_textacy_results(dest_folder_path, post_id, textacy_results):
+    """
+    Save textacy_results data to a file.
+
+    Args:
+        dest_folder_path (str): Path to the destination folder.
+        post_id (str): Unique identifier for the job post.
+        textacy_results (dict): Extracted textacy results.
+    """
+    # Merge keyterms
+    merged_keyterms = merge_keyterms(textacy_results)
+    
+    # Merge similar strings
+    merged_strings = merge_similar_strings(merged_keyterms)
+
+    # Create the file path
+    textacy_results_file_path = os.path.join(dest_folder_path, f"{post_id} - textacy_results.json")
+
+    # Write the merged and cleaned data to the file
+    with open(textacy_results_file_path, 'w') as f:
+        json.dump(merged_strings, f, indent=4)
 

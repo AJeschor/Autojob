@@ -2,7 +2,7 @@
 
 import os
 import sys
-from autojob.src.preprocessing.preprocessing_pipeline import apply_job_processing
+from autojob.src.preprocessing.preprocessing_application import apply_job_processing
 from autojob.src.preprocessing.input_files_processing import update_job_posts, split_input_postings
 
 current_directory = os.path.dirname(os.path.abspath(__file__))

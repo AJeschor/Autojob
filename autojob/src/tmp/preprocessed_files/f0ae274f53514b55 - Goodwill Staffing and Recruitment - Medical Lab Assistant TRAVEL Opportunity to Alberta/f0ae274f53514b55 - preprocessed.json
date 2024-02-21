@@ -1,0 +1,27 @@
+{
+    "id": "f0ae274f53514b55",
+    "companyDescription": "",
+    "description": "Medical laboratory assistants and workers in related technical occupations perform pre-analysis and pre-testing tasks such as collecting blood and other samples, processing specimens, and preparing special chemicals called reagents for use in testing. They conduct routine medical laboratory tests and set up, clean and maintain medical laboratory equipment. They are employed in medical laboratories in hospitals, clinics, research facilities, post-secondary educational institutions and government research laboratories.\n  Job duties\n  \n \n  Collect, label, sort and prepare blood, tissue and other samples from patients \n  Log and validate patient samples and prepare them for testing \n  Set up medical laboratory equipment \n  Prepare chemical reagents to be combined with biological samples for testing \n  Conduct routine laboratory tests and sample analyses \n  Perform quality assurance of testing techniques and record results \n  Clean and maintain medical laboratory and medical laboratory equipment.",
+    "preprocessed_description": "Medical laboratory assistants and workers in related technical occupations perform pre-analysis and pre-testing tasks such as collecting blood and other samples, processing specimens, and preparing special chemicals called reagents for use in testing. They conduct routine medical laboratory tests and set up, clean and maintain medical laboratory equipment. They are employed in medical laboratories in hospitals, clinics, research facilities, post-secondary educational institutions and government research laboratories. Job duties Collect, label, sort and prepare blood, tissue and other samples from patients Log and validate patient samples and prepare them for testing Set up medical laboratory equipment Prepare chemical reagents to be combined with biological samples for testing Conduct routine laboratory tests and sample analyses Perform quality assurance of testing techniques and record results Clean and maintain medical laboratory and medical laboratory equipment.",
+    "processed_description": "medical laboratory assistant worker technical occupation perform pre analysis pre testing task collect blood sample process specimen prepare special chemical reagent testing . conduct routine medical laboratory test set clean maintain medical laboratory equipment . employ medical laboratory hospital clinic research facility post secondary educational institution government research laboratory . duty Collect label sort prepare blood tissue sample patient Log validate patient sample prepare testing Set medical laboratory equipment prepare chemical reagent combine biological sample test Conduct routine laboratory test sample analysis perform quality assurance test technique record result clean maintain medical laboratory medical laboratory equipment .",
+    "results_group": {
+        "extracted_noun_chunks": [
+            "duty Collect label sort",
+            "medical laboratory medical laboratory equipment",
+            "medical laboratory equipment",
+            "special chemical reagent testing",
+            "chemical reagent",
+            "blood sample process specimen",
+            "Set",
+            "medical laboratory hospital clinic research facility post secondary educational institution government research laboratory",
+            "patient sample",
+            "blood tissue sample patient Log",
+            "biological sample test Conduct routine laboratory test sample analysis",
+            "routine medical laboratory test",
+            "pre analysis pre testing task",
+            "medical laboratory assistant worker technical occupation",
+            "quality assurance test technique record result"
+        ],
+        "combined_lemmatized_tokens": "medical laboratory assistant worker technical occupation perform pre analysis pre testing task collect blood sample process specimen prepare special chemical reagent testing . conduct routine medical laboratory test set clean maintain medical laboratory equipment . employ medical laboratory hospital clinic research facility post secondary educational institution government research laboratory . duty Collect label sort prepare blood tissue sample patient Log validate patient sample prepare testing Set medical laboratory equipment prepare chemical reagent combine biological sample test Conduct routine laboratory test sample analysis perform quality assurance test technique record result clean maintain medical laboratory medical laboratory equipment ."
+    }
+}
